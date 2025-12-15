@@ -1,1786 +1,459 @@
-FETAL AND NEONATAL MEDICINE Clarence W. Gowen, Jr.
-CHAPTER 58
-Assessment of the Mother, Fetus, and Newborn
-ASSESSMENT OF THE MOTHER
-Pregnancies associated with perinatal morbidity or mortality are considered high risk. Identification of high-risk pregnancies is essential as they may be caused by maternal and/or fetal conditions. Conditions include intrauterine growth restriction (IUGR) or excessive fetal growth, congenital anomalies, birth asphyxia and trauma, prematurity (birth at <37 weeks) or postmaturity (birth at ≥42 weeks), neonatal disease, or longterm risks of cerebral palsy, intellectual disability, and chronic sequelae of neonatal intensive care. Ten to 20% of women may be high risk at some time during their pregnancy. Although some obstetric complications are first seen during labor and delivery and cannot be predicted, more than 50% of perinatal mortality and morbidity results from problems identified before delivery. After a high-risk pregnancy is identified, measures can be instituted to prevent complications, provide intensive fetal surveillance, and initiate appropriate treatments of the mother and fetus. A history of previous premature birth, intrauterine fetal
-death, multiple gestation, IUGR, congenital malformation, explained or unexplained neonatal death (e.g., group B streptococcal sepsis), birth trauma, preeclampsia, gestational diabetes, grand multipara status (five or more pregnancies), or cesarean section is associated with additional risk in subsequent pregnancies. Pregnancy complications that increase the risk of adverse
-outcomes can be secondary to maternal or fetal conditions or both (Table 58.1). Neonatal complications include conditions caused by the placenta which tend to cause asphyxia and anemia, while disorders of the mother lead to problems such as electrolyte disorders or growth problems. Maternal medical complications associated with increased
-risk of maternal and fetal morbidity and mortality include diabetes, chronic hypertension, congenital heart disease (especially with right-to-left shunting and Eisenmenger complex), glomerulonephritis, autoimmune diseases (especially systemic lupus erythematosus with or without antiphospholipid antibodies), lung disease (cystic fibrosis), severe anemia (sickle cell anemia), hyperthyroidism, myasthenia gravis, idiopathic thrombocytopenic purpura, inborn errors of metabolism
-(maternal phenylketonuria), acute infection (COVID-19), and malignancy. Obstetric complications often are associated with
-increased fetal or neonatal risk. Vaginal bleeding in the first trimester or early second trimester may be caused by a threatened or actual spontaneous abortion and is associated with increased risk of congenital malformations or chromosomal disorders. Painless vaginal bleeding that is not associated with labor and occurs in the late second or (more likely) third trimester often is the result of placenta previa. Bleeding develops when the placental mass overlies the internal cervical os; this may produce maternal hemorrhagic shock, necessitating transfusions. Bleeding also may result in premature delivery. Painful vaginal bleeding is often the result of retroplacental hemorrhage or placental abruption. Associated findings include advanced maternal age and parity, maternal chronic hypertension, cocaine use, preterm rupture of membranes, polyhydramnios, twin gestation, and preeclampsia. Fetal asphyxia ensues as the retroplacental hematoma causes placental separation that interferes with fetal oxygenation. Both types of bleeding are associated with fetal blood loss. Neonatal anemia may be more common with placenta previa. Abnormalities in the volume of amniotic fluid, resulting
-in oligohydramnios or polyhydramnios, are associated with increased fetal and neonatal risk. Oligohydramnios (amniotic ultrasound fluid index ≤2 cm) is associated with IUGR and major congenital anomalies (particularly of the fetal kidneys) and with chromosomal syndromes.
-Bilateral renal agenesis results in diminished production of amniotic fluid and a specific deformation syndrome (Potter syndrome), which includes clubfeet, characteristic compressed facies, lowset ears, scaphoid abdomen, and diminished chest wall size accompanied by pulmonary hypoplasia and, often, pneumothorax. Uterine compression in the absence of amniotic fluid retards lung growth; patients with this condition die of respiratory failure rather than renal insufficiency. Twin-to-twin transfusion syndrome (donor) and complications from amniotic fluid leakage also are associated with oligohydramnios. Oligohydramnios increases the risk of fetal distress during labor (meconium-stained fluid and variable decelerations); the risk may be reduced by saline amnioinfusion during labor. Polyhydramnios may be acute and associated with premature labor, maternal discomfort, and respiratory compromise. More often, polyhydramnios is chronic and is associated with diabetes, immune or nonimmune hydrops fetalis, multiple gestation, trisomy 18 or 21, and major congenital anomalies. Anencephaly, hydrocephaly, and meningomyelocele are
-227 Telegram: @medical_netwww.konkur.in
-228
-SECTION 11 Fetal and Neonatal Medicine
-associated with reduced fetal swallowing of amniotic fluid.
-Esophageal and duodenal atresia as well as cleft palate inter-
-fere with swallowing and gastrointestinal fluid dynamics.
-Additional causes of polyhydramnios include spinal muscu-
-lar atrophy and Beckwith-Wiedemann syndrome, conjoined
-twins, chylothorax, congenital pulmonary airway malforma-
-tion, diaphragmatic hernia, gastroschisis, sacral teratoma,
-placental chorioangioma, and myotonic dystrophy. Hydrops
-fetalis may be a result of Rh or other blood group incompat-
-ibilities and anemia caused by intrauterine hemolysis of fetal
-erythrocytes by maternal immunoglobulin G (IgG)–sensitized
-antibodies crossing the placenta. Hydrops is characterized
-by fetal edema, ascites, hypoalbuminemia, and heart failure.
-Causes of nonimmune hydrops include fetal arrhythmias
-(supraventricular tachycardia, congenital heart block), fetal
-anemia (parvovirus infection, bone marrow suppression,
-nonimmune hemolysis, or twin-to-twin transfusion), severe
-congenital malformation, intrauterine infections, congenital
-neuroblastoma, inborn errors of metabolism (storage diseases),
-fetal hepatitis, nephrotic syndrome, and pulmonary lymphan-
-giectasia. Twin-to-twin transfusion syndrome (recipient) also
-may be associated with polyhydramnios. Polyhydramnios is
-often the result of unknown causes. If severe, polyhydram-
-nios may be managed with bed rest, indomethacin, or serial
-amniocenteses.
-Premature rupture of the membranes, which occurs in
-the absence of labor, and prolonged rupture of the mem-
-branes (>24 hours) are associated with an increased risk of
-maternal or fetal infection (chorioamnionitis) and preterm
-birth. In the immediate newborn period, group B streptococ-
-cus and Escherichia coli are the two most common pathogens
-associated with sepsis. Listeria monocytogenes is a less com-
-mon cause. Mycoplasma hominis, Ureaplasma urealyticum,
-Chlamydia trachomatis, and anaerobic bacteria of the vaginal
-flora also have been implicated in infection of the amniotic
-fluid. Infection with community-acquired methicillin-resistant
-Staphylococcus aureus must be considered for infants with skin
-infections or with known exposures. The risk of serious fetal
-infection increases as the duration between rupture and labor
-(latent period) increases, especially if the period is greater
-than 24 hours. Intrapartum antibiotic therapy decreases the
-risk of neonatal sepsis.
-Multiple gestations are associated with increased risk
-resulting from polyhydramnios, premature birth, IUGR,
-abnormal presentation (breech), congenital anomalies (intes-
-tinal atresia, porencephaly, and single umbilical artery),
-intrauterine fetal demise, birth asphyxia, and twin-to-twin
-transfusion syndrome. Twin-to-twin transfusion syndrome
-is associated with a high mortality and is seen only in monozy-
-gotic twins who share a common placenta and have an arterio-
-venous connection between their circulations. The fetus on the
-arterial side of the shunt serves as the blood donor, resulting
-in fetal anemia, growth restriction, and oligohydramnios for
-this fetus. The recipient, or venous-side twin, is larger or dis-
-cordant in size, is plethoric and polycythemic, and may show
-polyhydramnios. Weight differences of 20% and hemoglobin
-differences of 5 g/dL suggest the diagnosis. Ultrasonography in
-the second trimester reveals discordant amniotic fluid volume
-with oliguria/oligohydramnios and hypervolemia/polyuria/
-polyhydramnios with a distended bladder, with or without
-hydrops and heart failure. Treatment includes attempts to
-ablate the arteriovenous connection (using a laser). The birth
-Telegram: @medical_net
-order of twins also affects morbidity by increasing the risk
-of the second-born twin for breech position, birth asphyxia,
-birth trauma, and respiratory distress syndrome.
-Overall, twinning is observed in 1 of 80 pregnancies; 80%
-of all twin gestations are dizygotic twins. The diagnosis of the
-type of twins can be determined by placentation, sex, fetal
-membrane structure, and, if necessary, DNA analysis.
-Toxemia of pregnancy, or preeclampsia/eclampsia, is a
-disorder of unknown but probably vascular etiology that may
-lead to maternal hypertension, uteroplacental insufficiency,
-IUGR, intrauterine asphyxia, maternal seizures, and maternal
-death. Toxemia is more common in nulliparous women and
-in women with twin gestation, chronic hypertension, obesity,
-renal disease, positive family history of toxemia, or diabetes
-mellitus. A subcategory of preeclampsia, the HELLP syn-
-drome (hemolysis, elevated liver enzyme levels, low platelets),
-is more severe and is often associated with a fetal inborn error
-of fatty acid oxidation (long-chain hydroxyacyl–coenzyme
-A dehydrogenase of the trifunctional protein complex).
-FETUS AND NEWBORN
-The late fetal–early neonatal period has the highest mortal-
-ity rate of any age interval. Perinatal mortality refers to fetal
-deaths occurring from the 20th week of gestation until the
-28th day after birth and is expressed as number of deaths per
-1,000 live births. Intrauterine fetal death accounts for 40–50%
-of the perinatal mortality rate. Such infants, defined as still-
-born, are born without a heart rate and are apneic, limp, pale,
-and cyanotic. Many stillborn infants exhibit evidence of mac-
-eration; pale, peeling skin; corneal opacification; and soft cra-
-nial contents.
-Mortality rates around the time of birth are expressed as
-number of deaths per 1,000 live births. The neonatal mortal-
-ity rate includes all infants dying during the period from after
-birth to the first 28 days of life. Modern neonatal intensive care
-allows many newborns with life-threatening diseases to sur-
-vive the neonatal period, only to die of their original diseases
-or of complications of therapy after 28 days of life. This delayed
-mortality and mortality caused by acquired illnesses occurs
-during the postneonatal period, which begins after 28 days of
-life and extends to the end of the first year of life.
-The infant mortality rate encompasses the neonatal and
-the postneonatal periods. In the United States, it declined to
-5.5:1,000 in 2019. The rate for Black infants was approximately
-10.9:1,000. The most common causes of perinatal and neona-
-tal death are listed in Table 58.1. Overall, congenital anomalies
-and diseases of the premature infant are the most significant
-causes of neonatal mortality.
-Low birthweight (LBW) infants, defined as infants having
+Treatment of giant cell arteritis
+ContributorsDisclosures
+Date
+INTRODUCTION
+ — 
 
-birthweights of less than 2,500 g, represent a disproportion-
-ately large component of the neonatal and infant mortality
-rates. Although LBW infants make up only about 7–8% of all
-births, they account for more than 70% of neonatal deaths.
-IUGR is the most common cause of LBW in developing coun-
-tries, whereas prematurity is the cause in developed countries.
-Very low birthweight (VLBW) infants, weighing less than
-1,500 g at birth, represent about 1.5% of all births but account
-for 50% of neonatal deaths. Compared with infants weighing
-2,500 g or more, LBW infants are 40 times more likely to die in
-the neonatal period; VLBW infants have a 200-fold higher risk
-of neonatal death. The LBW rate has increased in recent yearswww.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.1
-FETUS
-Abruptio placentae
-Chromosomal anomalies
-Congenital malformations (heart, CNS, renal)
-Hydrops fetalis
-Intrauterine asphyxia*
-Intrauterine infection*
-Maternal underlying disease (chronic hypertension, autoimmune
-disease, diabetes mellitus)
-Multiple gestation*
-Placental insufficiency*
-Umbilical cord accident
-PRETERM INFANT
-Respiratory distress syndrome/bronchopulmonary dysplasia
-(chronic lung disease)*
-Severe immaturity*
-Congenital anomalies
-Infection
-Intraventricular hemorrhage*
-Necrotizing enterocolitis
-FULL-TERM INFANT
-Birth asphyxia*
-Birth trauma
-Congenital anomalies*
-Infection*
-Macrosomia
-Meconium aspiration pneumonia
-Persistent pulmonary hypertension
-*Common.
-CNS, Central nervous system.
-and is one of the major reasons that the U.S. infant mortality
-rate is high compared with other large, modern, industrialized
-countries.
-Maternal factors associated with a LBW caused by prema-
-ture birth or IUGR include a previous LBW birth, low socioeco-
-nomic status, low level of maternal education, poor antenatal
-care, maternal age younger than 16 years or older than 35 years,
-short interval between pregnancies, cigarette smoking, alcohol
-and illicit drug use, physical (excessive standing or walking) or
-psychologic (poor social support) stresses, single parent, low
-prepregnancy weight (<45 kg), poor weight gain during preg-
-nancy (<10 lb), and being Black. LBW and VLBW rates for
-Black women are twice the rates for White women. The neona-
-tal and infant mortality rates are nearly twofold higher among
-Black infants. These racial differences are only partly explained
-by poverty; racism is an important factor.
-Telegram: @medical_net
-|
-229
-Major Causes of Perinatal and Neonatal
-Mortality
-ASSESSMENT OF THE FETUS
-Fetal growth can be assessed by determining the fundal height
-of the uterus through bimanual examination of the gravid
-abdomen. Fetal size can be determined accurately by ultra-
-sound techniques. Ultrasound measurements of the fetal bipa-
-rietal diameter, femur length, and abdominal circumference
-are used to estimate fetal growth. A combination of these mea-
-surements predicts fetal weight. Deviations from the normal
-fetal growth curve are associated with high-risk conditions.
-IUGR is present when fetal growth stops and, over time,
-declines to less than the 5th percentile of growth for gesta-
-tional age or when growth proceeds slowly, but absolute size
-remains less than the 5th percentile. Growth restriction may
-result from fetal conditions that reduce the innate growth
-potential, such as fetal rubella infection, primordial dwarfing
-syndromes, chromosomal abnormalities, and congenital mal-
-formation syndromes. Reduced fetal production of insulin
-and insulin-like growth factor I is associated with fetal growth
-restriction. Placental causes of IUGR include villitis (congen-
-ital infections), placental tumors, chronic abruptio placentae,
-twin-to-twin transfusion syndrome, and placental insuffi-
-ciency. Maternal causes include severe peripheral vascular dis-
+Giant cell arteritis (GCA, also known as temporal arteritis) is the most common systemic vasculitis in North America and Europe [1,2]. GCA affects only older adults, with a peak incidence between ages 70 and 79 [3]. Many of the clinical features of the disease result from vascular inflammation of the small extracranial branches of the carotid arteries. Visual loss is one of the most concerning potential complications of GCA; glucocorticoids ae initiated as soon as the diagnosis is suspected specifically to prevent this complication. However, the disease can be systemic; arterial involvement may lead to aortic aneurysm formation and/or stenosis of the major arteries.
 
-eases that reduce uterine blood flow (chronic hypertension,
-diabetic vasculopathy, and preeclampsia/eclampsia), reduced
-nutritional intake, alcohol or drug use, cigarette smoking,
-uterine constraint (noted predominantly in mothers of small
-stature with a low prepregnancy weight), and reduced weight
-gain during pregnancy. The outcome of IUGR depends on the
-cause of the reduced fetal growth and the associated compli-
-cations after birth (Table 58.2). Fetuses subjected to chronic
-intrauterine hypoxia as a result of uteroplacental insufficiency
-are at an increased risk for the comorbidities of birth asphyxia,
-polycythemia, and hypoglycemia. Fetuses with reduced tissue
-mass due to chromosomal, metabolic, or multiple congenital
-anomaly syndromes have poor outcomes based on the prog-
-nosis for the particular syndrome. Fetuses born to small moth-
-ers and fetuses of mothers with poor nutritional intake usually
-show catch-up growth after birth.
-Fetal size does not always correlate with functional or struc-
-tural maturity. Determining fetal maturity is crucial when
-making a decision to deliver a fetus because of fetal or mater-
-nal disease. Fetal gestational age may be determined accurately
-on the basis of a correct estimate of the last menstrual period.
-Clinically relevant landmark dates can be used to determine
-gestational age; the first audible heart tones by fetoscope are
-detected at 18–20 weeks (12–14 weeks by Doppler methods),
-and quickening of fetal movements usually is perceived at
-18–20 weeks. However, it is not always possible to determine
-fetal maturity by such dating, especially in a high-risk situa-
-tion, such as preterm labor or a diabetic pregnancy; fetal ultra-
-sonography before 20 weeks of gestation provides an accurate
-measure of gestational age.
-Methods used to assess fetal well-being before the onset of
-labor are focused on identifying a fetus at risk for asphyxia or
-a fetus already compromised by uteroplacental insufficiency.
-The oxytocin challenge test simulates uterine contractions
-through an infusion of oxytocin sufficient to produce three
-contractions in a 10-minute period. The development of peri-
-odic fetal bradycardia out of phase with uterine contractions
-(late deceleration) is a positive test result and predicts an
-at-risk fetus.www.konkur.in
-230
-SECTION 11 Fetal and Neonatal Medicine
-TABLE 58.2
-PROBLEM*
-Intrauterine fetal
-demise
-Temperature
-instability
-Perinatal asphyxia
-Hypoglycemia
-Polycythemia-
-hyperviscosity
-Reduced oxygen
-consumption/
-hypothermia
-Dysmorphology
-Pulmonary
-hemorrhage
-|
-Pr oblems of Intrauterine Growth Restriction
-and Small for Gestational Age
-PATHOGENESIS
-Placental insufficiency, hypoxia, acidosis,
-infection, lethal anomaly
-Cold stress, ↓ fat stores, hypoxia,
-hypoglycemia
-↓ Uteroplacental perfusion during labor with
-or without chronic fetal hypoxia-acidosis,
-meconium aspiration syndrome
-↓ Tissue glycogen stores; ↓ gluconeogenesis,
-hyperinsulinism, ↑ glucose needs of hypoxia,
-hypothermia, relatively large brain
-Fetal hypoxia with ↑ erythropoietin
-production
-Hypoxia, hypoglycemia, starvation effect,
-poor subcutaneous fat stores
-Syndrome anomalads, chromosomal-
-genetic disorders, oligohydramnios-induced
-deformations
-Hypothermia, polycythemia, hypoxia
-*Other problems are common to the gestational age–related risks of prematurity
-if born before 37 weeks.
-Modified from Brady JM, Barnes-Davis ME, Poindexter BB. The high-risk infant.
-In Kliegman RM, St. Geme JW, eds. Nelson Textbook of Pediatrics. 21st ed.
-Philadelphia: Elsevier; 2020.
-(flattened tracing resulting from fetal sleep, tachycardia, atro-
-pine, sedatives, prematurity, or fetal distress). Periodic changes
-of the heart rate relative to uterine pressure help determine
-the presence of hypoxia and acidosis caused by uteroplacental
-insufficiency or maternal hypotension (late or type II deceler-
+The treatment and prognosis of GCA are reviewed here. The clinical manifestations and diagnosis of this disorder are discussed separately. (See "Clinical manifestations of giant cell arteritis" and "Diagnosis of giant cell arteritis".)
 
-ations) or by umbilical cord compression (variable decelera-
-tions). In the presence of severe decelerations (late or repeated
-prolonged variable), a fetal scalp blood gas level should be
-obtained to assess fetal acidosis. A scalp pH of less than 7.20
-indicates fetal hypoxic compromise. A pH between 7.20 and
-7.25 is in a borderline zone and warrants repeat testing.
-Fetal anomalies may be detected by ultrasonography.
-Emphasis should be placed on visualization of the geni-
-tourinary tract; the head (for anencephaly or hydroceph-
-aly), neck (for thickened nuchal translucency), and back
-(for spina bifida); skeleton; gastrointestinal tract; and heart.
-Four-chamber and great artery views are required for detec-
-tion of heart anomalies. Chromosomal anomaly syndromes
-are often associated with an abnormal “quadruple test” (low
-unconjugated estriols, low maternal serum α-fetoprotein lev-
-els, high inhibin A, and elevated placental chorionic gonado-
-tropin levels). Fetal genetic and chromosomal disorders can
-also be detected by analyzing free fetal DNA that is present
-in the maternal circulation. If a fetal abnormality is detected,
-fetal therapy or delivery with therapy in the neonatal intensive
-care unit may be lifesaving.
-ASSESSMENT OF THE NEWBORN
-The nonstress test examines the heart rate response to fetal
-body movements. Heart rate increases of more than 15 beats/
-min lasting 15 seconds are reassuring. If two such episodes
-occur in 30 minutes, the test result is considered reactive (ver-
-sus nonreactive), and the fetus is not at risk. Additional signs
-of fetal well-being are fetal breathing movements, gross body
-movements, fetal tone, and the presence of amniotic fluid
-pockets more than 2 cm in size, detected by ultrasound. The
-biophysical profile combines the nonstress test with these
-four parameters and offers the most accurate fetal assessment.
-Doppler examination of the fetal aorta or umbilical arter-
-ies permits identification of decreased or reversed diastolic
-blood flow associated with increased peripheral vascular resis-
-tance, fetal hypoxia with acidosis, and placental insufficiency.
-Cordocentesis (percutaneous umbilical blood sampling) can
-provide fetal blood for Pao2, pH, lactate, and hemoglobin
-measurements to identify a hypoxic, acidotic, or anemic fetus
-that is at risk for intrauterine fetal demise or birth asphyxia.
-Cordocentesis also can be used to determine fetal blood type,
-platelet count, microbial testing, antibody titer, and rapid
-karyotype.
-In a high-risk pregnancy, the fetal heart rate should be
-monitored continuously during labor, as should uterine
-contractions. Fetal heart rate abnormalities may indicate
-baseline tachycardia (>160 beats/min as a result of anemia,
-β-sympathomimetic drugs, maternal fever, hyperthyroidism,
-arrhythmia, or fetal distress), baseline bradycardia (<120
-beats/min as a result of fetal distress, complete heart block,
-or local anesthetics), or
-The approach to the birth of an infant requires a detailed his-
-tory (Table 58.3). Knowing the mother’s risk factors enables
-the delivery room team to anticipate problems that may
-occur. The history of a woman’s labor and delivery can reveal
-events that might lead to complications affecting either the
-mother or the neonate, even when the pregnancy was previ-
-ously considered low risk. Anticipating the need to resuscitate
-a newborn as a result of fetal distress increases the likelihood
-of successful resuscitation.
-The transition from fetal to neonatal physiology occurs
-at birth. Oxygen transport across the placenta results in a
-gradient between the maternal and fetal Pao2. Although fetal
-oxygenated blood has a low Pao2 level compared with that
-of adults and infants, the fetus is not anaerobic. Fetal oxy-
-gen uptake and consumption are similar to neonatal rates,
+INITIAL MANAGEMENT
+ — 
 
-even though the thermal environments and activity levels of
-fetuses and neonates differ. The oxygen content of fetal blood
-is almost equal to the oxygen content in older infants and chil-
-dren because fetal blood has a much higher concentration of
-hemoglobin.
-Fetal hemoglobin (two α and two γ chains) has a higher
-reduced beat-to-beat variability
-Telegram: @medical_net
-affinity for oxygen than adult hemoglobin, facilitating oxy-
-gen transfer across the placenta. The fetal hemoglobin-
-oxygen dissociation curve is shifted to the left of the adult curve
-(Fig. 58.1); at the same Pao2 level, fetal hemoglobin is more
-saturated than adult hemoglobin. Because fetal hemoglobin
-functions on the steep, lower end of the oxygen saturation
-curve (Pao2, 20–30 mm Hg), oxygen unloading to the tissue is
-not deficient. In contrast, at the higher oxygen concentrations
-present in the placenta, oxygen loading is enhanced. In the last
-trimester, fetal hemoglobin production begins to decrease as
-adult hemoglobin production begins to increase, becoming
-the only hemoglobin available to the infant by 3–6 monthswww.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.3 | Components of the Perinatal History
-DEMOGRAPHIC SOCIAL INFORMATION
-Age
-Ethnicity
-Sexually transmitted infections, hepatitis, AIDS
-Drugs: cigarettes, ethanol, cocaine, opiates
-Immune status (syphilis, rubella, hepatitis B, HIV, blood group)
-Occupational exposure
-PAST MEDICAL DISEASES
-Chronic hypertension
-Heart disease
-Diabetes mellitus
-Thyroid disorders
-Hematologic/malignancy
-Collagen-vascular disease (SLE)
-Genetic history—inborn errors of metabolism, bleeding, jaundice
-Drug therapy
-PRIOR PREGNANCY
-Abortion/stillbirths
-Intrauterine fetal demise
-Congenital malformation
-Incompetent cervix
-Birthweight
-Prematurity
-Twins
-Blood group sensitization/neonatal jaundice
-Hydrops
-Infertility
-231
-PRESENT PREGNANCY
-Current gestational age
-Method of assessing gestational age
-Fetal surveillance (OCT, NST, biophysical profile)
-Ultrasonography (anomalies, hydrops)
-Amniotic fluid analysis (L/S ratio)
-Oligohydramnios-polyhydramnios
-Vaginal bleeding
-Preterm labor
-Premature (prolonged) rupture of membranes (duration)
-Preeclampsia
-Urinary tract infection
-Colonization status (herpes simplex, group B streptococcus)
-Medications/drugs
-Acute medical illness/exposure to infectious agents
-Fetal therapy
-LABOR AND DELIVERY
-Duration of labor
-Presentation—vertex, breech
-Vaginal vs cesarean section
-Spontaneous labor vs augmented or induced with oxytocin (Pitocin)
-Forceps delivery
-Presence of meconium-stained fluid
-Maternal fever/amnionitis
-Fetal heart rate patterns (distress)
-Scalp pH
-Maternal analgesia, anesthesia
-Nuchal cord
-Apgar score/methods of resuscitation
-Gestational age assessment
-Growth status (AGA, LGA, SGA)
-AGA, Average for gestational age; AIDS, acquired immunodeficiency syndrome; HIV, human immunodeficiency virus; LGA, large for gestational age; L/S, lecithin-to-
-sphingomyelin ratio; NST, nonstress test; OCT, oxytocin challenge test; SGA, small for gestational age; SLE, systemic lupus erythematosus.
-of life. At this time, the hemoglobin dissociation curve has
-shifted to the adult position.
-A portion of well-oxygenated umbilical venous blood
-returning to the heart from the placenta partially perfuses the
-liver. The remainder bypasses the liver through a shunt (the
-ductus venosus) and enters the inferior vena cava. This oxy-
-genated blood in the vena cava constitutes 65–70% of venous
-return to the right atrium. The crista dividens in the right
-atrium directs one third of this blood across the patent fora-
-men ovale to the left atrium, where it subsequently is pumped
-to the coronary, cerebral, and upper extremity circulations by
-Telegram: @medical_net
-the left ventricle. Venous return from the upper body com-
+The approach to the initial management of giant cell arteritis (GCA) depends on whether the patient presents with visual manifestations (eg, monocular or binocular visual loss, diplopia) or cerebrovascular events (eg, stroke, transient ischemic attack) potentially attributed to GCA.
 
-bines with the remaining two thirds of the vena caval blood
-in the right atrium and is directed to the right ventricle. This
-mixture of venous low-oxygenated blood from the upper
-and lower body enters the pulmonary artery. Only 8–10%
-of it is pumped to the pulmonary circuit; the remaining
-80–92% of the right ventricular output bypasses the lungs
-through ductus arteriosus and enters the descending aorta.
-Vasoconstriction produced by medial muscle hypertrophy of
-the pulmonary arterioles and fluid in the fetal lung increases
-resistance to pulmonary blood flow. Pulmonary artery tonewww.konkur.in
-232
-SECTION 11 Fetal and Neonatal Medicine
-100
-take several weeks. In a premature infant, the ductus arterio-
-sus is less sensitive to the effects of oxygen; if circulating levels
-of vasodilating prostaglandins are elevated, the ductus arterio-
-sus may remain patent. This patency is a common problem in
-a premature infant with respiratory distress syndrome.
-Ventilation, oxygenation, and normal pH and Pco2 levels
-Fetal
-Adult
-Temperature
-pH
-Pco2
-DPG
-10
-30
-Oxygen tension (mm Hg)
-Routine Delivery Room Care and
-Resuscitation
-FIGURE 58.1 Hemoglobin-oxygen dissociation curves. The posi-
-tion of the adult curve depends on the binding of adult hemoglobin
-to 2,3-diphosphoglycerate (DPG), temperature, Pco2, and hydrogen
-ion concentration (pH).
-also responds to hypoxia, hypercapnia, and acidosis with vaso-
-constriction, a response that may increase pulmonary vascular
-resistance further. The ductus arteriosus remains patent in the
-fetus because of low Pao2 levels and dilating prostaglandins.
-In utero, the right ventricle is the dominant ventricle, pump-
-ing 65% of the combined ventricular output, which is a high
-volume (450 mL/kg/min) compared with that pumped by an
-older infant’s right ventricle (200 mL/kg/min).
-The transition of circulation, occurring between the
-fetal and neonatal periods, involves the removal of the low-
-resistance circulation of the placenta, the onset of breathing,
-reduction of pulmonary arterial resistance, and closure of in
-utero shunts. Clamping the umbilical cord eliminates the low-
-pressure system of the placenta and increases systemic blood
-pressure. Decreased venous return from the placenta decreases
-right atrial pressure. As breathing begins, air replaces lung
-fluid, maintaining the functional residual capacity. Fluid
-leaves the lung, in part, through the trachea; it is either swal-
-lowed or squeezed out during vaginal delivery. The pulmo-
-nary lymphatic and venous systems reabsorb the remaining
-fluid.
-Most normal infants require little pressure to sponta-
-neously open the lungs after birth (5–10 cm H2O). With the
-onset of breathing, pulmonary vascular resistance decreases,
-partly a result of the mechanics of breathing and partly a result
-of the elevated arterial oxygen tensions. The increased blood
-flow to the lungs increases the volume of pulmonary venous
-blood returning to the left atrium; left atrial pressure now
-exceeds right atrial pressure, and the foramen ovale closes.
-As the flow through the pulmonary circulation increases and
-arterial oxygen tensions rise, the ductus arteriosus begins to
-constrict. In a term infant, this constriction functionally closes
-the ductus arteriosus within 1 day after birth. A permanent
-closure requires thrombosis and fibrosis, a process that may
-Telegram: @medical_net
-Silver nitrate (1%) instilled into both eyes without being
-washed out is an indicated effective therapy for the prevention
-of neonatal gonococcal ophthalmia, which can result in severe
-panophthalmitis and subsequent blindness. Silver nitrate may
-produce a chemical conjunctivitis with a mucopurulent dis-
-charge and is not effective against Chlamydia trachomatis.
-Many hospitals use erythromycin drops to prevent neonatal
-gonococcal and chlamydial eye disease.
+No visual loss or cerebovascular events at diagnosis
 
-Bacterial colonization of a newborn may begin in utero if
-the fetal membranes have been ruptured. Most infants undergo
-colonization after birth and acquire the bacteria present in the
-mother’s genitourinary system, such as group B streptococci,
-staphylococci, Escherichia coli, and Clostridia. Antiseptic skin
-or cord care is routine in many nurseries to prevent the spread
-of pathologic bacteria from one infant to another and to pre-
-vent disease in the individual infant. Staphylococcal bullous
-impetigo, omphalitis, diarrhea, and systemic disease may
-result from colonization with virulent S. aureus. Antibiotic
-ointment, topical alcohol, or chlorhexidine may be applied to
-the umbilical cord to reduce its colonization with gram-pos-
-itive bacteria. Nonetheless, many newborn units recommend
-dry cord care. Epidemics of S. aureus nursery infections are
-managed with strict infectious disease control measures
-(cohorting, handwashing, and monitoring for colonization).
-Vitamin K prophylaxis (intramuscular) should be given
-to all infants to prevent hemorrhagic disease of the newborn.
-Before discharge, infants should receive the hepatitis B vaccine
-and be screened for various diseases (Tables 58.4, 58.5, and 58.6).
-New diseases are being added to newborn screening, including
-lysosomal storage diseases and spinal muscular atrophy.
-The Apgar examination, a rapid scoring system based on phys-
-iologic responses to the birth process, is a good method for assess-
-ing the need to resuscitate a newborn (Table 58.7). At intervals of
-1 and 5 minutes after birth, each of the five physiologic parameters
-is observed or elicited by a qualified examiner. Full-term infants
-with a normal cardiopulmonary adaptation should score 8–9 at
-1 and 5 minutes. Apgar scores of 4–7 warrant close attention to
-determine whether the infant’s status will improve and to ascertain
-whether any pathologic condition is contributing to the low Apgar
-score.
-90
-immediately reduce pulmonary artery vasoconstriction by
-causing smooth muscle relaxation. Remodeling of the medial
-muscle hypertrophy begins at birth and continues for the next
-3 months, resulting in a further reduction of pulmonary vas-
-cular resistance and a further increase of pulmonary blood
-flow. Persistence or aggravation of pulmonary vasoconstric-
-tion caused by acidosis, hypoxia, hypercapnia, hypothermia,
-polycythemia, asphyxia, shunting of blood from the lungs, or
-pulmonary parenchymal hypoplasia results in persistent pul-
-monary hypertension of the newborn (PPHN). Failure to
-replace pulmonary alveolar fluid completely with air can lead
-to respiratory distress (transient tachypnea of the newborn).
-Percent oxygen saturation hemoglobinwww.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.4
-|
-Recommended Uniform Scr
-eening Panel:
-Core Conditions
-ORGANIC ACID CONDITIONS
-Propionic acidemia (PROP)
-Methylmalonic acidemia (MUT)
-Methylmalonic acidemia (Cbl A,B)
-Isovaleric acidemia (IVA)
-3-methylcrotonyl-CoA carboxylase deficiency (3MCC)
-Glutaric acidemia type I (GA1)
-3-hydroxy-3-methylglutaric aciduria deficiency (HMG)
-β-ketothiolase deficiency (BKT)
-Holocarboxylase synthase (multiple carboxylase) deficiency (MCD)
-FATTY ACID OXIDATION DISORDERS
-Carnitine uptake defect/carnitine transport defect (CUD)
-Medium-chain acyl-CoA dehydrogenase deficiency (MCAD)
-Very long-chain acyl-CoA dehydrogenase deficiency (VLCAD)
-Long-chain L-3 hydroxyacyl-CoA dehydrogenase deficiency (LCHAD)
-Trifunctional protein deficiency (TFP)
-AMINO ACID DISORDERS
-Classic phenylketonuria (PKU)
-Maple syrup urine disease (MSUD)
-Homocystinuria (HCY)
-Tyrosinemia type I (TYR)
-Argininosuccinic acidemia (ASA)
-Citrullinemia type I (CIT)
-ENDOCRINE DISORDERS
-Primary congenital hypothyroidism (CH)
-Congenital adrenal hyperplasia (CAH)
-HEMOGLOBIN DISORDERS
+Glucocorticoids
+ — For patients without signs of ischemic organ damage (eg, visual loss) or cerebrovascular events (eg, stroke, transient ischemic attack), we initiate glucocorticoid therapy with prednisone 40 to 60 mg/day (or equivalent) administered in a single daily dose, with the goal of relieving symptoms and preventing visual loss (algorithm 1). If potentially reversible symptoms persist or worsen, the dose can be increased up to a maximum of prednisone 80 mg or equivalent until symptomatic control is achieved.
 
-S,S disease (sickle cell anemia) (HB SS)
-S, β-thalassemia (Hb S/bTh)
-S,C disease (Hb S/C)
-OTHER DISORDERS
-Biotinidase deficiency (BIOT)
-Critical congenital heart disease (CCHD)
-Cystic fibrosis (CF)
-Classic galactosemia (GALT)
-Hearing loss (HEAR)
-Severe combined immunodeficiency (SCID)
-From Advisory Committee on Heritable Disorders in Newborns and Children.
-Recommended uniform screening panel. U.S. Department of Health and
-Human Services. http://www.hrsa.gov/advisorycommittees/mchbadvisory/
-heritabledisorders/recommendedpanel/; also Genetics, diagnosis, inborn errors
-of metabolism and newborn screening: an update. Clin Perinatol. 2015;42(2):445
-[box 2].
-TABLE 58.5
-|
-233
-Recommended Uniform Scr
-eening Panel:
-Secondary Conditions
-ORGANIC ACID CONDITIONS
-Methylmalonic acidemia with homocystinuria (Cbl C,D)
-Malonic acidemia (MAL)
-Isobutyrylglycinuria (IBG)
-2-methylbutyrylglycinuria (2MBG)
-3-methylglutaconic aciduria (3MGA)
-2-methyl-3-hydroxybutyric aciduria (2M3HBA)
-FATTY ACID OXIDATION DISORDERS
-Short-chain acyl-CoA dehydrogenase deficiency (SCAD)
-Medium/short-chain L-3-hydroxyacyl-CoA dehydrogenase
-deficiency (M/SCHAD)
-Glutaric acidemia type II (GA2)
-Medium-chain ketoacyl-CoA thiolase deficiency (MCAT)
-2,4 dienoyl-CoA reductase deficiency (DE RED)
-Carnitine palmitoyltransferase type I deficiency (CPT-IA)
-Carnitine palmitoyltransferase type II deficiency (CPT II)
-Carnitine acylcarnitine translocase deficiency (CACT)
-AMINO ACID DISORDERS
-Argininemia (ARG)
-Citrullinemia type II (CIT II)
-Hypermethioninemia (MET)
-Benign hyperphenylalaninemia (H-PHE)
-Biopterin defect in cofactor biosynthesis (BIOPT BS)
-Biopterin defect in cofactor regeneration (BIOPT REG)
-Tyrosinemia type II (TYR II)
-Tyrosinemia type III (TYR III)
-HEMOGLOBIN DISORDERS
-Various other hemoglobinopathies (Var Hb)
-OTHER DISORDERS
-Galactoepimerase deficiency (GALE)
-Galactokinase deficiency (GALK)
-T-cell–related lymphocyte deficiencies
-From Advisory Committee on Heritable Disorders in Newborns and Children.
-Recommended uniform screening panel. U.S. Department of Health and
-Human Services. http://www.hrsa.gov/advisorycommittees/mchbadvisory/
-heritabledisorders/recommendedpanel/; also Genetics, diagnosis, inborn
-errors of metabolism and newborn screening: an update. Clin Perinatol.
-2015;42(2):446 [box 3].
-An Apgar score of 0–3 represents either a cardiopulmonary
-arrest or a condition caused by severe bradycardia, hypoventi-
-lation, or central nervous system depression. Most low Apgar
-scores are caused by difficulty in establishing adequate ven-
-tilation and not by primary cardiac pathology. In addition
-to an Apgar score of 0–3, most infants with asphyxia severe
-Telegram: @medical_netwww.konkur.in
-234
-SECTION 11 Fetal and Neonatal Medicine
-TABLE 58.6 | Abnormal Newborn Screening Results: Possible Implications and Initial Action to Be Taken
-NEWBORN SCREENING
-FINDING
-↑ Phenylalanine
-↓ T4, ↑ TSH
-↓ T4, normal TSH
-↑ Galactose 1-P
-↓ Galactose-1-phosphate
-uridyltransferase
-↑ Methionine
-↑ Leucine
-↑ Tyrosine
-↑ 17α-hydroxyprogesterone
-S-hemoglobin
-↑ Trypsinogen
-↑ Creatinine phosphokinase
-↓ Biotinidase
-↓ G6PD
-↓ α1-antitrypsin
-Toxoplasma antibody (IgM)
-HIV antibody (IgG)
-↑ Organic acids
-DIFFERENTIAL DIAGNOSIS
-PKU, non-PKU hyperphenylalaninemia, pterin defect,
-galactosemia, transient hyperphenylalaninemia
-Congenital hypothyroidism, iodine exposure
-Maternal hyperthyroidism, thyroxine-binding globulin
-deficiency, secondary hypothyroidism, congenital
-hypothyroidism with delayed TSH elevation
-Galactosemia, liver disease, reducing substance,
-repeat deficiency variant (Duarte), transient
-Galactosemia, transferase deficiency variant (Duarte),
-transient
-Homocystinuria, isolated liver dysfunction, tyrosinemia
-type I, transient hypermethioninemia
-Maple syrup urine disease, transient elevation
-Tyrosinemia type I or type II, transient tyrosinemia, liver
+For all patients with GCA, we recommend initial treatment with high-dose glucocorticoids rather than a moderate dose of glucocorticoids. We do not use lower doses of glucocorticoids (ie, prednisone <40 mg/day) as initial therapy in any patients with newly diagnosed GCA. In patients at high risk of developing glucocorticoid toxicity, we still use high doses of glucocorticoids, but we add a glucocorticoid-sparing agent to facilitate glucocorticoid tapering. The approach to using a glucocorticoid-sparing agent and glucocorticoid tapering is discussed in detail below. (See 'Glucocorticoid-sparing agent in selected patients' below and 'Glucocorticoid tapering' below.)
 
-disease
-Congenital adrenal hyperplasia, prematurity, transient
-(residual fetal adrenal cortex), stress in neonatal period,
-early specimen collection
-Sickle cell disease, sickle cell trait
-Cystic fibrosis, transient, intestinal anomalies, perinatal
-stress, trisomies 13 and 18, renal failure
-Duchenne muscular dystrophy, other type of muscular
-dystrophy, birth trauma, invasive procedure
-Biotinidase deficiency
-G6PD deficiency
-α1-antitrypsin deficiency
-Congenital toxoplasmosis
-Maternally transmitted HIV, possible AIDS
-Fatty acid oxidation defects (medium-chain acyl-CoA
-dehydrogenase deficiency)
-INITIAL ACTION
-Repeat blood specimen
-Repeat blood specimen or thyroid function
-testing, begin thyroxine treatment
-Repeat blood specimen
-Clinical evaluation, urine for blood specimen. If
-reducing substance positive, begin lactose-free
-formula
-Clinical evaluation, urine for reducing substance,
-repeat blood specimen. If reducing substance
-positive, begin lactose-free formula
-Repeat blood and urine specimen
-Clinical evaluation including urine for ketones,
-acid-base status, amino acid studies, immediate
-neonatal ICU care if urine ketones positive
-Repeat blood specimen
-Clinical evaluation including genital examination,
-serum electrolytes, repeat blood specimen
-Hemoglobin electrophoresis
-Repeat blood specimen, possible sweat test and
-DNA testing
-Repeat blood test
-Serum biotinidase assay, biotin therapy
-Complete blood count, bilirubin determination
-Confirmatory test
-Infectious disease consultation
-Infectious disease consultation
-Perform specific assay (tandem mass
-spectroscopy); frequent feeds
-AIDS, Acquired immunodeficiency syndrome; G6PD, glucose-6-phosphate dehydrogenase; HIV, human immunodeficiency virus; ICU, intensive care unit; PKU,
-phenylketonuria; T4, thyroxine; TSH, thyroid-stimulating hormone.
-From Kim SZ, Levy HL. Newborn screening. In: Taeusch HW, Ballard RA, eds. Avery's Diseases of the Newborn. 7th ed. Philadelphia: Saunders; 1998.
-TABLE 58.7 | Apgar Score
-POINTS
-SIGNS
-Heart rate
-Respiration
-Muscle tone
-0
-0
-1
-<100/min
-None Weak cry
-None
-Reflex irritability None
-Color of body
-Blue
-Some extremity
-flexion
-Some motion
-Pink body, blue
-extremities
-2
->100/min
-Vigorous cry
-Arms, legs well
-flexed
-Cry, withdrawal
-Pink all over
-enough to cause neurologic injury also manifest fetal acidosis
-(pH <7); seizures, coma, or hypotonia; and multiorgan dys-
-function. Low Apgar scores may be caused by fetal hypoxia
-or other factors listed in Table 58.8. Most infants with low
-Apgar scores respond to assisted ventilation by face mask or by
-endotracheal intubation and usually do not need emergency
-medication.
-About 80–85% of infants born at term will initiate spon-
-taneous breathing by 10 to 30 seconds; another 10% will
-begin respirations with stimulation. However, about 3% of
-infants will establish spontaneous breathing only after posi-
-tive pressure ventilation (PPV) while another 2% will require
-endotracheal intubation and less than 1% will require chest
-compressions and medications.
-Telegram: @medical_netwww.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.8 | Etiology of Birth Asphyxia
-TYPE
-235
-EXAMPLE
-INTRAUTERINE
-Hypoxia-ischemia
-Anemia-shock
-INTRAPARTUM
-Birth trauma
-Hypoxia-ischemia
-POSTPARTUM
-Central nervous system
-Congenital neuromuscular disease
-Infection
-Airway disorder
-Pulmonary disorder
-Renal disorder
-Uteroplacental insufficiency, abruptio placentae, prolapsed cord, maternal hypotension, unknown
-Vasa previa, placenta previa, fetomaternal hemorrhage, erythroblastosis
-Cephalopelvic disproportion, shoulder dystocia, breech presentation, spinal cord transection
-Umbilical cord compression, tetanic uterine contraction, abruptio placentae
-Maternal medication, trauma, previous episodes of fetal hypoxia-acidosis
-Congenital myasthenia gravis, myopathy, myotonic dystrophy
-Consolidated pneumonia, shock
-Choanal atresia, severe obstructing goiter or tumor, laryngeal webs
-Severe immaturity, pneumothorax, pleural effusion, diaphragmatic hernia, pulmonary hypoplasia
-Pulmonary hypoplasia, pneumothorax
-Resuscitation of the newborn is a process of assessment,
-intervention, and reassessment. It begins with the initial steps
-of providing warmth ensuring that the airway is patent and
-open, clearing the airway of secretions (as needed), drying,
-and providing gentle tactile stimulation. Observation of the
-infant drives the resuscitation. The baby should be observed
-for vigor and muscle tone, along with heart rate, and respi-
-rations, including use of a pulse oximeter. If the baby is vig-
-orous with good muscle tone, heart rate is above 100 beats/
-minute, and breathing (unlabored), no further resuscitation
-is needed. Alternatively, if the neonate is apneic or hypoven-
-tilating and remains cyanotic, artificial ventilation should
-be initiated. Ventilation should be performed with a well-
-fitted mask attached to an anesthesia bag and a manometer
-to prevent extremely high pressures from being given to the
-newborn; initially 21% oxygen (for infants >35 weeks ges-
-tational age) should be administered through the mask. If
-the infant does not revive, an endotracheal tube should be
-placed, attached to the anesthesia bag and manometer, and
-21% oxygen should be administered. If 21% (room air) is
-ineffective, the Fio2 may be increased to 100% oxygen; con-
-tinuous pulse oximetry monitors oxygenation. The pressure
-generated should begin at 20–25 cm H2O, with a rate of 40–60
-breaths/minute. An adequate response to ventilation includes
-good chest rise, return of breath sounds, well-oxygenated
-color, heart rate returning to the normal range (120–160
-beats/minute), normal end-tidal carbon dioxide, and, later,
-increased muscle activity and wakefulness. The usual recov-
-ery after a cardiac arrest first involves a return to a normal
-heart rate, followed by disappearance of cyanosis and notice-
-ably improved perfusion. An infant may remain limp and be
-apneic for a prolonged time after return of cardiac output and
-correction of acidosis.
-Resuscitation of a newborn with low Apgar score fol-
-lows the same systematic sequence as that for resuscitation
-of older patients, but in the newborn period this simplified
-Telegram: @medical_net
-ABCD approach requires some qualification (Fig. 58.2). In
-the ABCD approach, A stands for securing a patent airway by
-clearing amniotic fluid or meconium by suctioning; A is also a
-reminder of anticipation and the need for knowing the events
-of pregnancy, labor, and delivery. Evidence of a diaphragmatic
-hernia and a low Apgar score indicate that immediate endo-
-tracheal intubation is required. If a mask and bag are used,
-gas enters the lung and the stomach, and the latter may act as
-an expanding mass in the chest that compromises respiration.
-If fetal hydrops has occurred with pleural effusions, bilateral
-thoracentesis to evacuate the pleural effusions may be needed
-to establish adequate ventilation.
-B represents breathing. If the neonate is apneic or
-hypoventilating and remains cyanotic, artificial ventilation
-should be initiated. Ventilation should be performed with a
-well-fitted mask attached to an anesthesia bag and a manom-
-eter to prevent extremely high pressures from being given to
-the newborn; 100% oxygen should be administered through
-the mask. If the infant does not revive, an endotracheal tube
-should be placed, attached to the anesthesia bag and manom-
-eter, and 100% oxygen should be administered. The pressure
-generated should begin at 20–25 cm H2O, with a rate of 40–60
-breaths/minute. An adequate response to ventilation includes
-good chest rise, return of breath sounds, well-oxygenated
-color, heart rate returning to the normal range (120–160 beats/
+●Clinical response – Patients usually report dramatic improvements of many GCA-related symptoms (eg, headache, fever, malaise) within 24 to 48 hours of glucocorticoid administration. The diagnosis of GCA should be reevaluated in patients who are resistant to adequate glucocorticoid therapy, especially in situations where temporal artery biopsy and imaging studies have not confirmed the diagnosis of GCA. (See "Diagnosis of giant cell arteritis", section on 'Diagnosis'.)
 
-minute), normal end-tidal carbon dioxide, and, later, increased
-muscle activity and wakefulness.
-C represents circulation. Concurrently, while assessing the
-pulmonary status of the infant, heart rate is critical to assess. If
-artificial ventilation does not improve bradycardia, if asystole
-is present, or if peripheral pulses cannot be palpated, external
-cardiac massage should be performed at a rate of 120 com-
-pressions/minute with compressions and breaths given at a
-ratio of 3:1 (3 compressions followed by 1 breath). External
-cardiac massage usually is not needed because most infants in
-the delivery room respond to ventilation.www.konkur.in
-236
-SECTION 11 Fetal and Neonatal Medicine
-Newborn Resuscitation
-Birth
-Term gestation?
-Breathing or crying?
-Good tone?
-No
-Warm, clear airway if necessary,
-dry, stimulate
-30 sec
-HR below 100,
-gasping, or apnea?
-Yes
-PPV,
-SpO2 monitoring
-60 sec
-No
-HR below 100?
-Yes
-Take ventilation
-corrective steps
-No
-HR below 60?
-Yes
-Consider intubation
-Chest compressions
-Coordinate with PPV
-Take ventilation
-corrective steps
-Intubate if
-no chest rise!
-Consider:
-HR below 60?
-Yes
-IV epinephrine
-Postresuscitation
-care
-No
-Labored breathing
-or persistent
-cyanosis?
-Yes
-Clear airway
-SpO2 monitoring
-Consider CPAP
-Targeted Preductal SpO2
-After Birth
-60–65%
-65–70%
-70–75%
-75–80%
-80–85%
-85–95%
-No
-Yes, stay
-with mother
-Routine care
-FIGURE 58.2 New guidelines and algorithm for neonatal resuscitation. CPAP, Continuous positive airway pressure; IV, intravenous; HR, heart
-rate; PPV, positive pressure ventilation; Spo2, blood oxygen saturation. (From Kattwinkel J, Perlman JM, Aziz K, et al. Special report—neonatal
-resuscitation: 2010 American Heart Association guidelines for cardiopulmonary resuscitation and emergency cardiovascular care. Pediatrics.
-2010;126[5]:e1400–e1413. Erratum in Neoreviews 2011;128[1]:176.)
-D represents the administration of drugs. If bradycar-
-dia is unresponsive to ventilation or if asystole is present,
-epinephrine should be administered. Intravenous (IV) epi-
-nephrine (1:10,000), 0.1–0.3 mL/kg, should be given through
-an umbilical venous line or injected into the endotracheal
-tube. However, when epinephrine is administered through
-the endotracheal tube, the result is unpredictable. Before
-medications are administered in the presence of electrical
-Telegram: @medical_net
-cardiac activity with poor pulses, it is important to deter-
-mine whether there is a pneumothorax. Transillumination of
-the thorax, involving the use of a bright light through each
-side of the thorax and over the sternum, may suggest pneu-
-mothorax if one side transmits more light than the other.
-Breath sounds may be decreased over a pneumothorax, and
-there may be a shift of the heart tones away from the side of a
-tension pneumothorax.www.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.9 | Life-Threatening Congenital Anomalies
-NAME
-Choanal atresia (stenosis)
-Pierre Robin (Stickler) syndrome
-Diaphragmatic hernia
-Tracheoesophageal fistula
-Intestinal obstruction: volvulus, duodenal
-atresia, ileal atresia
-Gastroschisis/omphalocele
-Renal agenesis/Potter syndrome
-Hydronephrosis
-Neural tube defects: anencephaly,
-meningomyelocele
-Down syndrome (trisomy 21)
-Ductal-dependent congenital heart disease
-MANIFESTATIONS
-Respiratory distress in delivery room, apnea, unable to pass nasogastric tube through nares
-Micrognathia, cleft palate, airway obstruction
-Scaphoid abdomen, bowel sounds present in left chest, heart shifted to right, respiratory
-distress, polyhydramnios
-Polyhydramnios, aspiration pneumonia, excessive salivation, unable to place nasogastric
-tube in stomach
-Polyhydramnios, bile-stained emesis, abdominal distention
-Polyhydramnios; intestinal obstruction
-Oligohydramnios, anuria, pulmonary hypoplasia, pneumothorax
+●Efficacy – Though never studied in a randomized trial, the role of glucocorticoids for the prevention of visual loss is supported by observational data and decades of clinical experience [4-6].
 
-Bilateral abdominal masses
-Polyhydramnios, elevated α-fetoprotein; decreased fetal activity
-Hypotonia, congenital heart disease, duodenal atresia
-Cyanosis, murmur, shock
-237
-If central nervous system depression in the infant may be
-due to a narcotic medication given to or taken by the mother
-acutely, 0.1 mg/kg of naloxone (Narcan) can be given to the
-infant intravenously or endotracheally. Before this drug is
-administered, resuscitation should be followed carefully.
-Naloxone should not be given to a newborn of a mother who
-is suspected of being addicted to narcotics or is on methadone
-maintenance because the newborn may experience severe
-withdrawal seizures.
-In babies of more than 35 weeks of gestation suffering
-moderate to severe hypoxic-ischemic injury at birth, induced
-therapeutic hypothermia (33.0–34.0°C) for 72 hours has been
-shown in clinical studies to be efficacious in reducing the
-severity of brain injury. Brain hypothermia, whether induced
-by whole body or selective head cooling, provides neuropro-
-tection against encephalopathy presumably due to hypoxic
-ischemia.
-Physical Examination and Gestational Age
-Assessment
-The first physical examination of a newborn may be a gen-
-eral physical examination of a well infant or an examination
-to confirm fetal diagnoses or to determine the cause of various
-manifestations of neonatal diseases. Problems in the transition
-from fetal to neonatal life may be detectable immediately in
-the delivery room or during the first day of life. Physical exam-
-ination also may reveal effects of the labor and delivery result-
-ing from asphyxia, drugs, or birth trauma. The first newborn
-examination is an important way to detect congenital malfor-
-mations or deformations (Table 58.9). Significant congenital
-malformations may be present in 1–3% of all births.
-Appearance
-Signs such as cyanosis, nasal flaring, intercostal retractions,
-and grunting suggest pulmonary disease. Meconium staining
-Telegram: @medical_net
-of the umbilical cord, nails, and skin suggest fetal distress and
-the possibility of aspiration pneumonia. The level of spon-
-taneous activity, passive muscle tone, quality of the cry, and
-apnea are useful screening signs to evaluate the state of the
-nervous system.
-Vital Signs
-The examination should proceed with an assessment of vital
-signs, particularly heart rate (normal rate, 120–160 beats/
-minute), respiratory rate (normal rate, 30–60 breaths/minute),
-temperature (usually done per rectum and later as an axillary
-measurement), and blood pressure (often reserved for sick
-infants). Length, weight, and head circumference should be
-measured and plotted on growth curves to determine whether
-growth is normal, accelerated, or retarded for the specific
-gestational age.
-Gestational Age
-Gestational age is determined by an assessment of various
-physical signs (Fig. 58.3) and neuromuscular characteris-
-tics (Fig. 58.4) that vary according to fetal age and maturity.
-Physical criteria mature with advancing fetal age, including
-increasing firmness of the pinna of the ear; increasing size of
-the breast tissue; decreasing fine, immature lanugo hair over
-the back; and decreasing opacity of the skin. Neurologic cri-
-teria mature with gestational age, including increasing flexion
-of the legs, hips, and arms; increasing tone of the flexor mus-
-cles of the neck; and decreasing laxity of the joints. These signs
-are determined during the first day of life and are assigned
-scores. The cumulative score is correlated with a gestational
-age, which is usually accurate to within 2 weeks (Fig. 58.5).
-Gestational age assessment permits the detection of abnor-
-mal fetal growth patterns, aiding in predicting the neonatal
-complications for large or small for gestational age infants
-(Fig. 58.6). Infants born at a weight greater than the 90th per-
+•In a retrospective study of 245 patients with biopsy-proven GCA, all of whom were treated with glucocorticoids, permanent visual loss was found in 34 patients (14 percent) [5]. However, vision loss occurred in 32 of the 34 patients before the initiation of glucocorticoids. Of the two cases of de novo visual loss that developed after glucocorticoids were started, one occurred eight days into treatment, and the other occurred three years after glucocorticoids were first administered and one year after their discontinuation when the erythrocyte sedimentation rate (ESR) was normal and was therefore unlikely related to GCA.
 
-centile for age are considered large for gestational age. Amongwww.konkur.in
-238
-SECTION 11 Fetal and Neonatal Medicine
-Physical maturity
-Skin
-–1
-Sticky,
-friable,
-transparent
-Lanugo
-None
-Plantar
-surface
-Heel–toe
-40-50
-mm: –1
-Less than
-40 mm: –2
-Breast
-Impercep-
-tible
-Eye/ear
-Lids fused,
-loosely (–1),
-tightly (–2)
-Genitals
-male
-Scrotum
-flat,
-smooth
-Genitals
-female
-Clitoris
-prominent,
-labia flat
-0
-Gelatinous,
-red,
-translucent
-1
-Smooth,
-pink, visible
-veins
-2
-Superficial
-peeling
-or rash,
-few veins
-Sparse Abundant Thinning
-<50 mm,
-no
-crease
-Barely
-perceptible
-Lids open,
-pinna flat,
-stays
-folded
-Scrotum
-empty,
-faint rugae
-Prominent
-clitoris,
-small labia
-minora
-Faint
-red
-marks
-Flat areola–
-no bud
-Slightly
-curved
-pinna; soft,
-slow recoil
-Testes in
-upper
-canal,
-rare rugae
-Prominent
-clitoris,
-enlarging
-minora
-Anterior
-transverse
-crease
-only
-Stripped
-areola,
-1-2 mm
-bud
-Well-curved
-pinna, soft
-but ready
-recoil
-Testes
-descending,
-few rugae
-Majora
-and minora
-equally
-prominent
-3
-Cracking,
-pale areas,
-rare veins
-Bald
-areas
-Creases
-on anterior
-2/3
-Raised
-areola,
-3-4 mm
-bud
-Formed
-and firm;
-instant
-recoil
-Testes
-down,
-good
-rugae
-Majora
-large,
-minora
-small
-4
-Parchment,
-deep
-cracking,
-no vessels
-Mostly
-bald
-Creases
-over
-entire sole
-Full
-areola,
-5-10 mm
-bud
-Thick
-cartilage,
-ear stiff
-Testes
-pendulous,
-deep rugae
-Majora
-cover
-clitoris
-and minora
-FIGURE 58.3 Physical criteria for assessment of maturity and gestational age. Expanded New Ballard Score includes extremely premature
-infants and has been refined to improve accuracy in more mature infants. (From Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score,
-expanded to include extremely premature infants. J Pediatr. 1991;119:417–423.)
-Neuromuscular maturity
-–1
-Posture
-Square
-window
-(wrist)
-Arm
-recoil
-180
-Popliteal
-angle
-Scarf
-sign
-Heel
-to ear
-FIGURE 58.4 Neuromuscular criteria for assessment of maturity and gestational age. Expanded New Ballard Score includes extremely prema-
-ture infants and has been refined to improve accuracy in more mature infants. (From Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score,
-expanded to include extremely premature infants. J Pediatr. 1991;119:417–423.)
-Telegram: @medical_net
-180
-160
-140 –180
-140
-110 –140
-120
-90 –110
-100
-< 90
-90
-< 90
-0
-1
-2
-3
-4
-5
-5
-Leathery,
-cracked,
-wrinkled
-< 90
-90
-60
-45
-30
-0www.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-239
-Maturity rating
-Score
-–10
-–5
-0
-5
-10
-15
-20
-25
-30
-35
-40
-45
-50
-Weeks
-20
-22
-24
-26
-28
-30
-32
-34
-36
-38
-40
-42
-44
-FIGURE 58.5 Maturity rating as calculated by adding the phys-
-ical and neurologic scores, calculating the gestational age. (From
-Ballard JL, Khoury JC, Wedig K, et al. New Ballard Score, expanded
-to include extremely premature infants. J Pediatr. 1991;119:
-417–423.)
-the risks associated with being large for gestational age are
-all the risks of the infant of a diabetic mother and risks associ-
-ated with postmaturity. Infants born at a weight less than 10th
-percentile for age (some growth curves use <2 standard devi-
-ations or the 5th percentile) are small for gestational age and
-have IUGR. Problems associated with small for gestational age
-infants include congenital malformations, in addition to the
-problems listed in Table 58.2.
-Skin
-The skin should be evaluated for pallor, plethora, jaundice,
-cyanosis, meconium staining, petechiae, ecchymoses, congen-
-ital nevi, and neonatal rashes. Vasomotor instability with cutis
-marmorata, telangiectasia, phlebectasia (intermittent mottling
-with venous prominence), and acrocyanosis (feet and hands)
-is normal in a premature infant. Acrocyanosis also may be
-noted in a healthy term infant in the first days after birth.
-The skin is covered with lanugo hair, which disappears by term
-gestation. Hair tufts over the lumbosacral spine suggest a spinal
-cord defect. Vernix caseosa, a soft, white, creamy layer cover-
+•In another study of 144 patients with biopsy-proven GCA described in the ophthalmologic literature, none of the 53 patients with normal vision at presentation lost vision after initiation of glucocorticoids [6]. Of the 91 patients with visual loss at presentation, nine experienced further visual loss after beginning glucocorticoids, all within five days of the start of treatment. Thus, if vision is intact at the time of the diagnosis of GCA, treatment with glucocorticoids appears to reduce the risk of visual loss to less than 1 percent.
 
-ing the skin in preterm infants, disappears by term. Post-term
-infants often have peeling, parchmentlike skin. Mongolian spots
-are transient, dark blue to black pigmented macules seen over
-the lower back and buttocks in 90% of Black, Indian, and Asian
-infants. Nevus simplex (salmon patch), or pink macular heman-
-gioma, is common, usually transient, and noted on the back of
-the neck, eyelids, and forehead. Nevus flammeus, or port-wine
-stain, is seen on the face and should cause the examiner to con-
-sider Sturge-Weber syndrome (trigeminal angiomatosis, convul-
-sions, and ipsilateral intracranial tram-line calcifications).
-5
-4.5
-4
-3.5
-3
-2.5
-2
-1.5
-12 8.5
-1
-0.5
-0
-23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
-Estimated gestational age (EGA) (wk)
-FIGURE 58.6 Birthweight-specific and estimated gestational age–specific mortality rates. The dashed lines of the figure represent the 10th
-and 90th percentile weights. The grid lines are plotted by each gestational age and in 250 g weight increments. Each number in the box is the
-percent mortality rate for the grid defined by gestational age and birthweight range. (From Thomas P, Peabody J, Turnier V, et al. A new look at
-intrauterine growth and impact of race, attitude, and gender. Pediatrics. 2000;106:E21.)
-25
-71
-94
-27
-46
-75
-21
-33
-63
-0.0
-2.2
-20 11 18
-25
-20
-33
-56
-12
-2.3
-3.2
-4.1
-8.5
-7.1
-2.1 0.0
-0.0 1.2 0.9 0.0
-1.3 1.4 0.0 0.0
-1.2 0.8 0.5 1.7
-0.0 1.2 0.5 1.1 0.5
-0.8 0.6 1.2 0.0 0.6 0.5
-1.9 0.9 0.8 1.1 1.1 0.9 2.7
-0.9 0.5 1.3 0.4 2.0 1.7 0.5 0.0
-1.1 0.7 0.5 1.8 1.3 2.3 2.0 0.9 0.0
-2.0 2.2 0.4 0.7 1.4 3.1 3.1 0.0
-4.2 1.1 0.4 0.8 0.5 0.5 2.3 4.8
-3.0 1.7 1.4 1.4 0.9 0.9 2.3
-1.8 1.7 1.6 0.7 0.6 1.1
-2.5 0.9 2.0 1.0 2.9
-1.4 3.0 2.9 2.9
-16
-8.3
-Telegram: @medical_netwww.konkur.in
-240
-SECTION 11 Fetal and Neonatal Medicine
-Congenital melanocytic nevi are pigmented lesions of
-varying size noted in 1% of neonates. Giant pigmented nevi
-are uncommon but have malignant potential. Capillary
-hemangiomas are raised, red lesions, whereas cavernous
-hemangiomas are deeper, blue masses. Both lesions increase
-in size after birth then resolve over 1–4 years. When enlarged,
-these hemangiomas may produce high-output heart failure
-or platelet trapping and hemorrhage. Erythema toxicum is
-an erythematous, papular-vesicular rash common in neo-
-nates that develops after birth and involves eosinophils in the
-vesicular fluid. Pustular melanosis, more common in Black
-infants, may be seen at birth and consists of small, dry vesicles
-on a pigmented brown macular base. Erythema toxicum and
-pustular melanosis are benign lesions but may mimic more
-serious conditions, such as the vesicular rash of disseminated
-herpes simplex or the bullous eruption of S. aureus impetigo.
-Tzanck smear, Gram stain, Wright stain, direct fluorescent
-antibody stain, polymerase chain reaction for herpes DNA,
-and appropriate cultures may be needed to distinguish these
-rashes. Other common characteristic rashes are milia (yellow-
-white epidermal cysts of the pilosebaceous follicles that are
-noted on the nose) and miliaria (prickly heat), which is caused
-by obstructed sweat glands. Edema may be present in preterm
-infants but also suggests hydrops fetalis, sepsis, hypoalbumin-
-emia, or lymphatic disorders.
-Skull
-The skull may be elongated and molded after a prolonged
-labor; this resolves 2–3 days after birth. The sutures should be
-palpated to determine the width and the presence of prema-
-ture fusion or cranial synostosis. The anterior and posterior
-fontanels should be soft and nonbulging, with the anterior
-larger than the posterior. A large fontanel is associated with
-hydrocephalus, hypothyroidism, rickets, and other disorders.
-Soft areas away from the fontanel are craniotabes; these lesions
-feel like a Ping-Pong ball when they are palpated. They may be
+●Data regarding initial dose – There are no clinical trials comparing different initial oral glucocorticoid doses for newly diagnosed GCA. However, clinical experience and observational data suggest that almost all patients with GCA respond symptomatically within one to seven days to a 40 to 60 mg of oral prednisone (or equivalent) [4,7-10]. As an example, a population-based study with 120 patients with GCA found that all patients responded rapidly to a median initial dose of 60 mg/day of prednisone [7].
 
-a result of in utero compression. The skull should be exam-
-ined carefully for signs of trauma or lacerations from internal
-fetal electrode sites or fetal scalp pH sampling; abscesses may
-develop in these areas.
-Vaginal delivery or prolonged labor prior to a cesarean
-section may result in a caput succedaneum, a soft edema-
-tous subcutaneous scalp swelling that crosses suture lines,
-or a cephalohematoma, a subperiosteal hematoma confined
-within suture lines.
-Face, Eyes, and Mouth
-The face should be inspected for dysmorphic features, such as
-epicanthal folds, hypertelorism, preauricular tags or sinuses,
-low-set ears, long philtrum, and cleft lip or palate. Facial asym-
-metry may be a result of seventh nerve palsy; head tilt may be
-caused by torticollis.
-The eyes should open spontaneously, especially in an upright
-position. Before 28 weeks gestational age, the eyelids may be
-fused. Coloboma, megalocornea, and microphthalmia suggest
-other malformations or intrauterine infections. A cloudy cor-
-nea greater than 1 cm in diameter also may be seen in con-
-genital glaucoma, uveal tract dysgenesis, and storage diseases.
-Conjunctival and retinal hemorrhages are common and usually
-of no significance. The pupillary response to light is present at
-28 weeks of gestation. The red reflex of the retina is shown easily.
-A white reflex, or leukokoria, is abnormal and may be the result
-Telegram: @medical_net
-of cataracts, ocular tumor, severe chorioretinitis, persistent
-hyperplastic primary vitreous, or retinopathy of prematurity.
-The mouth should be inspected for the presence of natal
-teeth, clefts of the soft and hard palate and uvula, and micro­
-gnathia. A bifid uvula suggests a submucosal cleft. White,
-shiny, multiple transient epidermal inclusion cysts (Epstein
-pearls) on the hard palate are normal. Hard, marble-sized
-masses in the buccal mucosa are usually transient idiopathic
-fat necrosis. The tympanic membranes are dull, gray, opaque,
-and immobile in the first 1–4 weeks. These findings should not
-be confused with otitis media.
-Neck and Chest
-The neck appears short and symmetric. Abnormalities include
-midline clefts or masses caused by thyroglossal duct cysts or
-by goiter and lateral neck masses (or sinuses), which are the
-result of branchial clefts. Cystic hygromas (lymphangiomas) and
-hemangiomas may be present. Shortening of the sternocleido-
-mastoid muscle with a fibrous tumor over the muscle produces
-head tilt and asymmetric facies (neonatal torticollis). Arnold-
-Chiari malformation and cervical spine lesions also produce
-torticollis. Edema and webbing of the neck suggest Turner syn-
-drome. Both clavicles should be palpated for fractures.
-Examination of the chest includes inspection of the chest
-wall to identify asymmetry resulting from absence of the pec-
-toralis muscle and inspection of the breast tissue to determine
-gestational age and detect a breast abscess. Boys and girls may
-have breast engorgement and produce milk; milk expression
-should not be attempted. Supernumerary nipples may be
-bilateral and may be associated with renal anomalies.
-Lungs
-Examination of the lungs includes observations of the rate,
-depth, and nature of intercostal or sternal retractions. Breath
-sounds should be equal on both sides of the chest, and rales
-should not be heard after the first 1–2 hours of life. Diminished
-or absent breath sounds on one side suggest pneumothorax,
-collapsed lung, pleural effusion, or diaphragmatic hernia.
-Shift of the cardiac impulse away from a tension pneumotho-
-rax and diaphragmatic hernia and toward the collapsed lung
-is a helpful physical finding for differentiating these disorders.
-Subcutaneous emphysema of the neck or chest also suggests
-a pneumothorax or pneumomediastinum, whereas bowel
-sounds auscultated in the chest in the presence of a scaphoid
+Our approach to the initial glucocorticoid dose is consistent with the European Alliance of Associations for Rheumatology (EULAR; formerly European League Against Rheumatism) guidelines, which recommend a fixed starting dose of prednisone 40 to 60 mg/day (or equivalent) [11]. By contrast, the American College of Rheumatology (ACR) guidelines recommend a starting dose of 1 mg/kg of prednisone or equivalent, up to a maximum of 80 mg/day [12,13]. Our preference is based on the fact that the majority of clinical trials have used fixed starting doses of prednisone 60 mg/day, and that additional high-quality data on the optimal starting dose of glucocorticoids in GCA are lacking. We do not use starting doses of <40 mg/day, as the use of such doses have not been systematically studied.
 
-abdomen suggest a diaphragmatic hernia.
-Heart
-The position of the heart in infants is more midline than in
-older children. The first heart sound is normal, whereas the
-second heart sound may not be split in the first day of life.
-Decreased splitting of the second heart sound is noted in
-PPHN, transposition of the great vessels, and pulmonary
-atresia. Heart murmurs in newborns are common in the
-delivery room and during the first day of life. Most of these
-murmurs are transient and are due to closure of the ductus
-arteriosus, peripheral pulmonary artery stenosis, or a small
-ventral septal defect. Pulses should be palpated in the upper
-and lower extremities (over the brachial and femoral arteries).
-Blood pressure in the upper and lower extremities should be
-measured in all patients with a murmur or heart failure. An
-upper-to-lower extremity gradient of more than 10–20 mm Hg
-suggests coarctation of the aorta.www.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-Abdomen
-A normal liver may be palpable up to 2 cm below the right
-costal margin. The spleen tip is less likely to be palpable. A
-left-sided liver suggests situs inversus and asplenia syndrome.
-Both kidneys should be palpable in the first day of life with
-gentle, deep palpation. The first urination occurs during the
-first day of life in more than 95% of normal term infants.
-Abdominal masses usually represent hydronephrosis or
-dysplastic-multicystic kidney disease. Less often, masses indi-
-cate ovarian cysts, intestinal duplication, neuroblastoma, or
-mesoblastic nephroma. Masses should be evaluated immedi-
-ately with ultrasound. Abdominal distention may be caused by
-intestinal obstructions, such as ileal atresia, meconium ileus,
-midgut volvulus, imperforate anus, or Hirschsprung disease.
-Meconium stool is passed normally within 48 hours of birth in
-99% of term infants. The anus should be patent. An imperfo-
-rate anus is not always visible; the first temperature taken with
-a rectal thermometer should be taken carefully. The abdom-
-inal wall musculature may be absent, as in prune-belly syn-
-drome, or weak, resulting in diastasis recti. Umbilical hernias
-are common in Black infants. The umbilical cord should be
-inspected to determine the presence of two arteries and one
-vein and the absence of an urachus or a herniation of abdom-
-inal contents, as occurs with an omphalocele. The latter is
-associated with extraintestinal problems, such as genetic tri-
-somies and hypoglycemia (Beckwith-Wiedemann syndrome).
-Bleeding from the cord suggests a coagulation disorder, and
-a chronic discharge may be a granuloma of the umbilical
-stump or, less frequently, a draining omphalomesenteric cyst
-or urachus. Erythema around the umbilicus is omphalitis
-and may cause portal vein thrombophlebitis and subsequent
-extrahepatic portal hypertension. The herniation of bowel
-through the abdominal wall 2–3 cm lateral to the umbilicus
-is a gastroschisis.
-Genitalia
-At term, the testes should be descended into a well-formed
-pigmented and rugated scrotum. The testes occasionally are
-in the inguinal canal; this is more common among preterm
-infants, as is cryptorchidism. Scrotal swelling may represent
-a hernia, transient hydrocele, in utero torsion of the testes, or,
-rarely, dissected meconium from meconium ileus and perito-
-nitis. Hydroceles are clear and readily seen by transillumina-
-tion, whereas testicular torsion in the newborn may present
-as a painless, dark swelling. The urethral opening should
-be at the end of the penis. Epispadias or hypospadias alone
-should not raise concern about pseudohermaphroditism.
-However, if no testes are present in the scrotum and hypo-
-spadias is present, problems of sexual development should be
-suspected. Circumcision should be deferred with hypospa-
-dias because the foreskin is often needed for the repair. The
+There is insufficient evidence to justify the upfront use of intravenous pulse glucocorticoids in all patients with GCA, although they are recommended in patients with visual loss at presentation. (See 'Possible visual loss or cerebrovascular events' below.)
 
-normal prepuce is often too tight to retract in the neonatal
-period.
-The female genitalia normally may reveal a milky white
-or blood-streaked vaginal discharge as a result of maternal
-hormone withdrawal. Mucosal tags of the labia majora are
-common. Distention of an imperforate hymen may produce
-hydrometrocolpos and a lower midline abdominal mass as a
-result of an enlarged uterus. Clitoral enlargement with fusion
-of the labial-scrotal folds (labia majora) suggests adreno-
-genital syndrome or exposure to masculinizing maternal
-hormones.
-Telegram: @medical_net
-241
-Extremities
-Examination of the extremities should involve assessment of
-length, symmetry, and presence of hemihypertrophy, atro-
-phy, polydactyly, syndactyly, simian creases, absent fingers,
-overlapping fingers, rocker-bottom feet, clubfoot, congenital
-bands, fractures, and amputations.
-Spine
-The spine should be examined for evidence of sacral hair tufts,
-a dermal sinus tract above the gluteal folds, congenital scoli-
-osis (a result of hemivertebra), and soft tissue masses such as
-lipomas or meningomyeloceles.
-Hips
-The hips should be examined for congenital dysplasia (dislo-
-cation). Gluteal fold asymmetry or leg length discrepancy is
-suggestive of dysplasia, but the examiner should perform the
-Barlow test and the Ortolani maneuver to evaluate the stabil-
-ity of the hip joint. These tests determine whether the femoral
-head can be displaced from the acetabulum (Barlow test) and
-then replaced (Ortolani maneuver).
-NEUROLOGIC ASSESSMENT
-The neurologic examination should include assessment of
-active and passive tone, level of alertness, primary neonatal
-(primitive) reflexes, deep tendon reflexes, spontaneous motor
-activity, and cranial nerves (involving retinal examination,
-extraocular muscle movement, masseter power as in suck-
-ing, facial motility, hearing, and tongue function). The Moro
-reflex, present at birth and gone in 3–6 months, is one of the
-primary newborn reflexes. It is elicited by sudden, slight drop-
-ping of the supported head from a slightly raised supine posi-
-tion, which should elicit opening of the hands and extension
-and abduction of the arms, followed by upper extremity flex-
-ion and a cry. The palmar grasp is present by 28 weeks of ges-
-tation and gone by 4 months of age. Deep tendon reflexes may
-be brisk in a normal newborn; 5–10 beats of ankle clonus are
-normal. The Babinski sign is extensor (upgoing). The sensory
-examination can be evaluated by withdrawal of an extremity,
-grimace, and cry in response to painful stimuli. The rooting
-reflex (turning of the head toward light tactile stimulation of
-the perioral area) is present by 32 weeks of gestation.
-Special Conditions Requiring Resuscitation
-in the Delivery Room
-Cyanosis
-Acrocyanosis (blue color of the hands and feet with pink color
-of the rest of the body) is common in the delivery room and
-is usually normal. Central cyanosis of the trunk, mucosal
-membranes, and tongue can occur at any time after birth and
-is always a manifestation of a serious underlying condition.
-Cyanosis is noted with 4–5 g/dL of deoxygenated hemoglobin.
-Central cyanosis can be caused by problems in many differ-
-ent organ systems, although cardiopulmonary diseases are the
-most common (Table 58.10). Respiratory distress syndrome,
-sepsis, and cyanotic heart disease are the three most common
-causes of cyanosis in infants admitted to a neonatal intensive
-care unit. A systematic evaluation of these and other causes
-of cyanosis is required for every cyanotic infant after prompt
-administration of oxygen, with or without assisted ventilation.www.konkur.in
-242
-SECTION 11 Fetal and Neonatal Medicine
-TABLE 58.10 | Differential Diagnosis of Neonatal Cyanosis
-SYSTEM/DISEASE
-MECHANISM
-PULMONARY
-Respiratory distress syndrome
-Sepsis, pneumonia
-Meconium aspiration pneumonia
+•A randomized trial with 164 patients with GCA (without ocular involvement at presentation) found no differences in the cumulative glucocorticoid doses or the number of GCA complications when comparing three different glucocorticoid protocols, two of which consisted of different pulse glucocorticoid regimens on a background of oral prednisone (240 mg intravenous pulse of methylprednisolone followed by 0.7 mg/kg/day oral prednisone or 240 mg intravenous pulse methylprednisolone followed by 0.5 mg/kg/day) and the other of which consisted of only oral prednisone (0.7 mg/kg/day) [14].
 
-Persistent pulmonary hypertension of the newborn
-Diaphragmatic hernia
-Transient tachypnea
-CARDIOVASCULAR
-Cyanotic heart disease with decreased pulmonary
-blood flow
-Cyanotic heart disease with increased pulmonary
-blood flow
-Cyanotic heart disease with congestive heart failure
-Heart failure alone
-CENTRAL NERVOUS SYSTEM (CNS)
-Maternal sedative drugs
-Asphyxia
-Intracranial hemorrhage
-Neuromuscular disease
-HEMATOLOGIC
-Acute blood loss
-Chronic blood loss
-Polycythemia
-Methemoglobinemia
-METABOLIC
-Hypoglycemia
-Adrenogenital syndrome
-Right-to-left shunt as in pulmonary atresia, tetralogy of Fallot
-Mixing lesion as in single ventricle or truncus arteriosus
-Pulmonary edema and poor cardiac output as in hypoplastic left heart and
-coarctation of aorta
-Pulmonary edema and poor cardiac contractility as in sepsis, myocarditis,
-supraventricular tachycardia, or complete heart block; high-output failure as in
-PDA or vein of Galen or other arteriovenous malformations
-Hypoventilation, apnea
-CNS depression
-CNS depression, seizure
-Hypotonia, hypoventilation, pulmonary hypoplasia
-Shock
-Heart failure
-Pulmonary hypertension
-Low-affinity hemoglobin or red blood cell enzyme defect
-CNS depression, congestive heart failure
-Shock (salt-losing)
-ARDS, Acute respiratory distress syndrome; CNS, central nervous system; PDA, patent ductus arteriosus.
-Surfactant deficiency
-Inflammation, pulmonary hypertension, ARDS
-Mechanical obstruction, inflammation, pulmonary hypertension
-Pulmonary hypertension
-Pulmonary hypoplasia, pulmonary hypertension
-Retained lung fluid
-Life-Threatening Congenital Malformations
-Various congenital anomalies can interfere with vital organ
-function after birth (see Table 58.10). Some malformations,
-such as choanal atresia and other lesions obstructing the air-
-way, may complicate ventilation. Intrathoracic lesions, such as
-cysts or diaphragmatic hernia, interfere with respiration. Other
-malformations that obstruct the gastrointestinal system at the
-level of the esophagus, duodenum, ileum, or colon may lead
-to aspiration pneumonia, intestinal perforation, or gangrene.
-Gastroschisis and omphalocele are associated with exposed
-bowel on the abdominal wall. Omphalocele is often associated
-with other malformations, whereas intestinal necrosis is more
-common in gastroschisis.
-Perinatal Hypoxia and Asphyxia
-Whether in utero or after birth, asphyxia-caused hypoxic-
-ischemic brain injury (encephalopathy) is the result of
-reduced gaseous exchange through the placenta or through
-the lungs. Asphyxia associated with severe bradycardia or
-cardiac insufficiency reduces or eliminates tissue blood flow,
-resulting in ischemia. The fetal and neonatal circulatory sys-
-tems respond to reduced oxygen availability by shunting the
-blood preferentially to the brain, heart, and adrenal glands and
-away from the intestine, kidneys, lungs, and skin.
-Metabolic acidosis during asphyxia is caused by the com-
-bined effects of poor cardiac output secondary to hypoxic
-depression of myocardial function, systemic hypoxia, and
-Telegram: @medical_netwww.konkur.in
-CHAPTER 58 Assessment of the Mother, Fetus, and Newborn
-TABLE 58.11 | Effects of Asphyxia
-SYSTEM
-EFFECT
-Central nervous
-system
-Cardiovascular
-Pulmonary
-Renal
-Adrenal
-Gastrointestinal
-Metabolic
-Integument
-Hematology
-Hypoxic-ischemic encephalopathy, IVH,
-PVL, cerebral edema, seizures, hypotonia,
-hypertonia
-Myocardial ischemia, poor contractility,
-tricuspid insufficiency, hypotension
-Persistent pulmonary hypertension, respiratory
-distress syndrome
-Acute tubular or cortical necrosis
-Adrenal haemorrhage
-Perforation, ulceration, necrosis
-Inappropriate ADH, hyponatremia,
-hypoglycemia, hypocalcemia, myoglobinuria
-Subcutaneous fat necrosis
-Disseminated intravascular coagulation
-ADH, Antidiuretic hormone; IVH, intraventricular hemorrhage; PVL, periventricular
+•Another small randomized study of 27 patients without ocular involvement found that adding initial pulse glucocorticoid therapy resulted in a reduced total exposure to glucocorticoids and a lower relapse rate [15].
+
+Neither of these randomized trials, however, was designed to assess the outcome of ocular complications.
+
+●No role for alternate-day dosing – Treatment of GCA requires daily glucocorticoid administration. The importance of daily dosing was demonstrated in the course of a study on the use of methotrexate for the management of GCA in which a rapid glucocorticoid taper to an alternate-day dose was associated with new visual loss in 8 of 98 patients [16]. In another study of regimens for glucocorticoid dosing, daily doses were more effective than alternate-day doses for symptomatic management [17].
+
+●Adverse effects – The risks of high-dose and chronic glucocorticoid therapy are well known and include cataracts, fractures, infections, hypertension, diabetes, osteoporosis, and osteonecrosis [7]. Other side effects of glucocorticoids include weight gain; hair loss; and capillary fragility, which can be especially problematic in older adults on antiplatelet or anticoagulant therapies. (See "Major adverse effects of systemic glucocorticoids".)
+
+Glucocorticoid-sparing agent in selected patients
+
+Indications and rationale
+ — For patients with newly diagnosed GCA with increased risk of glucocorticoid-related adverse effects, we suggest the addition of tocilizumab to glucocorticoids (algorithm 1). Patients who are at increased risk of developing glucocorticoid-related side effects or complications include those with osteoporosis, diabetes, hypertension, or glaucoma. We also use tocilizumab for patients with relapsing disease, which is discussed further below. (See 'Tocilizumab' below and 'Management' below.)
+
+Our approach to the use of a glucocorticoid-sparing agent is consistent with the EULAR guidelines [11] but differs from those of the ACR [12,13], which recommends tocilizumab for all newly diagnosed patients with GCA. Although tocilizumab is associated with a reduction in relapse and is glucocorticoid-sparing for patients with GCA, definitive data confirming the safety of long-term exposure of tocilizumab in an older adult population with multiple comorbidities are lacking. Furthermore, there are no definitive data showing that tocilizumab reduces glucocorticoid-related side effects, reduces tissue inflammation, or prevents vascular complications (eg, aneurysm or stenosis) in patients with large-vessel disease. (See 'Tocilizumab' below.)
+
+Tocilizumab
+ — Tocilizumab is administered as a 162 mg subcutaneous weekly injection or as a monthly intravenous infusion in combination with glucocorticoids. When tocilizumab is administered intravenously, we typically dose it at 8 mg/kg once every four weeks (with a maximum of 800 mg/infusion). However, in the United States, intravenous tocilizumab is administered at 6 mg/kg, which is the dose approved by the US Food and Drug Administration (FDA). Tocilizumab may be administered as monotherapy following discontinuation of glucocorticoids.
+
+●Dose reduction for adverse events – In patients who develop an adverse event (eg, cytopenias or abnormal liver function tests) with the standard initial dose, the tocilizumab dose should be decreased. For patients receiving injections, the time between administrations can be increased to every other week; for patients receiving intravenous tocilizumab, the dose can be reduced to 4 mg/kg.
+
+●Adverse events – The risks of tocilizumab include opportunistic infection, neutropenia, abnormal liver function tests, increased serum cholesterol, diverticulitis, and gastrointestinal perforation. Additional information regarding dose adjustments and adverse effects are described separately. Refer to the UpToDate Lexidrug monograph for tocilizumab. (See "Interleukin 6 inhibitors: Biology, principles of use, and adverse effects", section on 'Adverse effects'.)
+
+●Duration of therapy – The optimal duration of therapy with tocilizumab is unknown.
+
+•New-onset disease – We generally continue treatment for 12 to 18 months. If clinical remission is maintained, and glucocorticoids are successfully tapered off, we discontinue tocilizumab therapy.
+
+•Relapsing disease – In some patients with relapsing disease who achieve sustained remission with tocilizumab, we try spacing out the tocilizumab injections to every other week (or reduce the dose of the intravenous infusion) for a period of 6 to 12 months before complete discontinuation.
+
+●Monitoring disease activity – A pragmatic concern with the use of tocilizumab in the management of GCA pertains to its effects on the acute phase reactants. Interleukin 6 (IL-6) is a major driver of the acute phase response through its induction of hepatic synthesis of acute phase proteins (see "Acute phase reactants"). Blockade of IL-6 activity completely normalizes the ESR and C-reactive protein (CRP). Therefore, the assessment of GCA in a patient on tocilizumab must rely on clinical evaluation and, for patients with large-vessel involvement, periodic imaging studies. There continues to be an unfulfilled need for a reliable marker of active disease in GCA. (See 'Routine monitoring of disease activity' below and 'Imaging surveillance for patients with large-vessel involvement' below.)
+
+●Efficacy – The beneficial effects of tocilizumab as a glucocorticoid-sparing intervention have been demonstrated in two randomized trials [18,19]. As an example, in an industry-sponsored Giant Cell Arteritis Actemra (GiACTA) trial, 251 patients with newly diagnosed or relapsing GCA were randomly assigned to receive either weekly or every-other-week subcutaneous tocilizumab injections, combined with a 26-week prednisone taper, or placebo combined with a prednisone taper over a period of either 26 or 52 weeks [19]. Patients with evidence of critical optic ischemia were not enrolled in the study. Sustained remission at 52 weeks occurred in 56 percent of the weekly tocilizumab group and in 53 percent of the every-other-week tocilizumab group compared with 14 percent of the placebo group, who tapered over 26 weeks, and 18 percent of the placebo (prednisone-only) group, who tapered over 52 weeks. When normalization of the CRP concentration was excluded from the definition, sustained remission at 52 weeks occurred in 59 percent of the weekly tocilizumab group and in 55 percent of the every-other-week tocilizumab group compared with 20 percent of the placebo group, who tapered over 26 weeks, and 33 percent of the placebo (prednisone-only) group, who tapered over 52 weeks. The cumulative median prednisone dose over the 52-week period in each tocilizumab group was 1862 mg, as compared with 3296 mg in the placebo group on the 26-week taper and 3818 mg in the placebo group on the 52-week taper. Serious adverse events were more common in the placebo groups, most of which were related to infection. One patient in the group receiving tocilizumab every other week had an episode of anterior ischemic optic neuropathy (AION) that resolved with glucocorticoid treatment.
+
+Information about long-term effects of tocilizumab treatment on the disease course is limited [18,19]. In the two-year extension study of the GiACTA trial, after tocilizumab discontinuation, relapses were common, occurring in over half of patients enrolled [20]. Restarting tocilizumab (with or without glucocorticoids) was effective in restoring clinical remission in most patients. The glucocorticoid-sparing effect of tocilizumab demonstrated in the initial trial was maintained through year 3. Cumulative glucocorticoid doses over three years were significantly lower in patients originally randomized to tocilizumab compared with those originally randomized to placebo (median cumulative prednisone dose 2647 mg for tocilizumab once a week, 3948 mg for tocilizumab every other week, 5277 mg for placebo with a 26-week prednisone taper, and 5323 mg for placebo with a 52-week prednisone taper). No new or unexpected safety findings were reported over the full three years of the study.
+
+Whether tocilizumab definitively resolves vessel inflammation (and consequently prevents the development of aortic aneurysm and large-vessel stenosis) is unclear. In a case report, a patient with GCA in apparent remission on tocilizumab died of a postoperative myocardial infarction and was found on postmortem examination to have active arteritis of the aorta, subclavian arteries, and right superficial temporal artery [21]. A cohort study investigating repeated temporal artery biopsies found persistent arterial inflammation in more than one-third of GCA patients who had been treated with tocilizumab and glucocorticoids for at least six months. Positron emission tomography (PET)/computed tomography (CT) and ultrasound performed at the time of the second biopsy supported these findings, revealing signs of ongoing vascular inflammation in approximately one-third of the patients [22].
+
+Upadacitinib
+ — We use upadacitinib 15 mg/day (administered orally) in patients with new or relapsing GCA who are at high risk of glucocorticoid-associated toxicity under the following circumstances:
+
+●Contraindications to tocilizumab (eg, a history of gastrointestinal perforation or diverticulitis)
+
+●History of tocilizumab-associated adverse events
+
+●Disease relapse despite tocilizumab therapy
+
+●Patient preference for an oral agent
+
+Nevertheless, upadacitinib should be used with caution in patients with preexisting cardiovascular risk factors, such as ischemic heart disease, cerebrovascular events, or venous thromboembolism, due to the potential association of Janus kinase (JAK) inhibitors with an increased risk of cardiovascular events. (See 'Management' below and "Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders", section on 'Adverse effects'.)
+
+In an industry-sponsored randomized trial (SELECT-GCA), 428 patients with either newly diagnosed or relapsing GCA were assigned, in a 2:1:1 ratio, to receive upadacitinib at a dose of 15 mg or 7.5 mg orally once daily plus a 26-week glucocorticoid taper or placebo plus a 52-week glucocorticoid taper [23]. Key observations from this study include the following:
+
+●Upadacitinib 15 mg – Upadacitinib 15 mg/day was superior to placebo at achieving sustained remission, defined as the absence of signs or symptoms of GCA from week 12 through week 52 and adherence to the protocol-specified glucocorticoid taper, 46.4 (95% CI 39.6-53.2] versus 29.0 (95% CI 20.6-37.5) percent. Upadacitinib at a dose of 15 mg also demonstrated superiority over placebo in achieving sustained complete remission, delaying time to disease flare, reducing cumulative glucocorticoid exposure (1615 versus 2882 mg), and improving fatigue and quality of life.
+
+●Upadacitinib 7.5 mg – Upadacitinib 7.5 mg/day was not clearly superior to placebo at achieving sustained remission (41.1 percent, 95% CI 31.8-50.4).
+
+●Adverse events – Over the 52-week study period, the incidence of overall adverse events, serious adverse events, and most adverse events of special interest, including cancer and venous thromboembolism, was similar between the upadacitinib and placebo groups. However, a higher incidence of herpes zoster was observed in the 15 mg upadacitinib group compared with both placebo and the 7.5 mg group. While cardiovascular risk remains a potential concern with JAK inhibitors, no major adverse cardiovascular events were reported among patients treated with upadacitinib during the study.
+
+However, real-world data are warranted to better characterize the long-term safety profile of upadacitinib in patients with GCA, who are typically diagnosed at a mean age above 65 years, a population inherently at increased cardiovascular risk. (See "Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders", section on 'Adverse effects'.)
+
+Methotrexate
+ — When used, methotrexate is typically initiated at a dose of 10 to 15 mg/week, with increases in dose every two to eight weeks of 5 mg/week up to 25 mg/week. We use the same regimen and approach to titration as that used in rheumatoid arthritis. (See "Use of methotrexate in the treatment of rheumatoid arthritis", section on 'Dosing and administration'.)
+
+Methotrexate may be used as an alternative glucocorticoid-sparing agent for patients who are unable to use tocilizumab or upadacitinib due to factors such as availability, cost, or recurrent infections.
+
+Limited data suggest that methotrexate is, at best, only moderately effective for reducing cumulative glucocorticoid dose and the rate of relapses [24]. Three randomized trials comparing methotrexate with placebo in patients with GCA treated with glucocorticoids reached divergent conclusions [16,25,26]. Of note, the doses of methotrexate used in the trials were low by contemporary standards (ie, only 10 to 15 mg/week). A meta-analysis of the individual patient-level data of 161 patients from these three trials suggested that the addition of methotrexate resulted in a statistically significant reduction in the cumulative dose of glucocorticoids over the 48 weeks following randomization (cumulative dose reduction of prednisone or equivalent of 842 mg), a decreased rate of first and second relapse, and a higher probability of achieving a glucocorticoid-free remission [27]. Adverse effects between the two treatment groups were similar.
+
+The superiority of methotrexate over placebo appeared only after 24 to 36 weeks.
+
+There are no randomized trials comparing methotrexate with tocilizumab in GCA. In an observational study on patients with new-onset, active, large-vessel GCA starting treatment with either glucocorticoid monotherapy or combination with methotrexate or tocilizumab, all three treatment regimens controlled the clinical and biochemical signs of GCA and vascular inflammation evaluated by PET/CT [28]. Mean cumulative prednisone doses, however, were higher with glucocorticoid monotherapy (5637 mg), intermediate with methotrexate (4478 mg), and significantly lower with tocilizumab (2984 mg).
+
+Possible visual loss or cerebrovascular events
+ — Patients who present with visual manifestations (eg, monocular or binocular visual loss, diplopia) or with cerebrovascular events (eg, stroke, transient ischemic attack) potentially attributed to GCA require a higher initial dose of glucocorticoids. We use either 500 to 1000 mg/day of intravenous methylprednisolone daily for three days (followed by 40 to 60 mg/day of oral prednisone) or 1 mg/kg/day of oral prednisone (if intravenous pulse cannot be rapidly initiated). While the association between diplopia and visual loss in patients with GCA has not been confirmed in all studies, we also treat patients with GCA who present with diplopia with an initial course of intravenous glucocorticoids [29].
+
+Glucocorticoids should be administered promptly. Though not validated in rigorous studies, this approach is used because of the crucial importance of preventing visual impairment due to GCA, which, once established, is rarely reversible [15]. Limited data suggest that the timing of glucocorticoid therapy may be more important than the route of administration for the prevention of future severe ischemic events [30]. A retrospective multicenter study of 29 patients with GCA with permanent visual loss is the only study that used a cutoff interval time of 24 hours from diagnosis to treatment onset to define early treatment. Early treatment was the only significant predictor of improvement of visual acuity (odds ratio [OR] 17.7); the therapeutic regimen (intravenous pulse versus oral prednisone) did not influence visual outcome [31].
+
+Preexisting sight loss can progress, despite initiation of glucocorticoid therapy, in approximately 10 percent of patients, usually within the first week of treatment [6]. If untreated, the second eye is likely to become affected in up to 30 percent of patients, and more than half of these patients develop bilateral loss of vision within the first two weeks [32].
+
+The stark reality of such visual loss is that patients seldom recover useful vision in an affected eye [33-35]. In a retrospective review of 84 patients (114 eyes) with variable degrees of GCA-associated visual loss (due to AION in over 90 percent of patients), there were no differences in improvement in visual acuity when comparing patients who received intravenous glucocorticoids followed by oral therapy (41 patients) with patients who received only oral glucocorticoids (43 patients). Improvement in visual acuity was only observed in 4 percent of eyes (three patients treated with intravenous glucocorticoids and two with oral glucocorticoids), as judged by improvement in both visual acuity and central visual field (by kinetic perimetry and Amsler grid) [33]. Of note, improvement perceived by patients and noted on visual acuity tests may not reflect true recovery of retinal or optic nerve function but rather eccentric compensation for acquired, permanent visual deficits.
+
+Patients with large-vessel involvement
+ — Large-vessel GCA involves the aorta and the great vessels, most commonly the subclavian arteries and distally to the axillary and brachial arteries. Patients with large-vessel GCA are managed in a manner similar to those without large-vessel involvement.
+
+It remains uncertain whether large-vessel involvement may require more protracted or intensive treatment. In one retrospective cohort study comparing 120 patients with large-vessel GCA with 240 patients with cranial GCA, the patients with large-vessel GCA had a higher cumulative glucocorticoid dose after one year of treatment, relapsed more frequently, and received more adjunctive immunosuppressant therapies [36]. Additional information regarding the clinical features of large-vessel involvement is presented separately. (See "Clinical manifestations of giant cell arteritis", section on 'Large vessel involvement'.)
+
+Additional management considerations for patients with large-vessel involvement include the following:
+
+●Antiplatelet therapy for selected patients – For patients who have critical or flow-limiting involvement of the cerebral or carotid arteries, we add low-dose aspirin to glucocorticoid and glucocorticoid-sparing therapy. If low-dose aspirin is used, a proton pump inhibitor should also be administered as aspirin, age, and high-dose glucocorticoids are all risk factors for gastrointestinal bleeding (see "NSAIDs (including aspirin): Primary prevention of gastroduodenal toxicity", section on 'Proton pump inhibitors'). The rationale for low-dose aspirin use in this setting is for prevention of ischemic events in patients with vascular narrowing resulting in decreased cerebral flow. However, there are limited data supporting the role of antiplatelet therapy for the prevention of ischemic events in patients with GCA [37-41].
+
+●Vascular complications – For patients with vascular complications such as aortic aneurysms or stenosis resulting in limb or organ ischemia, management decisions regarding potential surgical intervention should involve collaboration of the vascular surgeon and the rheumatologist.
+
+For patients with GCA who require vascular surgical intervention and have clinical evidence of active disease, we typically use high-dose glucocorticoids in the periprocedural period. Clinical studies that would inform the management of complications such as limb ischemia or aortic aneurysms in GCA are lacking, and the approach to management is largely based on clinical experience and extrapolated from experience with Takayasu arteritis.
+
+Additional considerations regarding specific vascular complications include:
+
+•Ischemic limb symptoms – Most ischemic limb symptoms from stenosis improve or stabilize with medical management in GCA, and revascularization of arteries to the extremities (eg, angioplasty, stent placement, or bypass surgery) is seldom required. Vasculitic narrowing of large arteries, such as the subclavian artery, is usually gradual and accompanied by the development of an extensive web of collateral vessels (image 1). With treatment of the underlying inflammatory process, the collateral circulation is commonly adequate to maintain the viability of distal tissues, even though there is some incident limb ischemia or diminished or absent peripheral arterial pulsations (brachial, radial, and ulnar). In one report of 53 treated patients with subclavian involvement due to GCA, symptoms and signs of ischemia resolved in 15 (27 percent), improved in 30 (55 percent), and were unchanged in 8 (15 percent) [42].
+
+If indicated, stenting or angioplasty should be undertaken when clinical evidence for inflammation has been suppressed with treatment. Restenosis is not uncommon [42].
+
+•Aortic aneurysms – Patients with aortic aneurysms related to GCA should be carefully evaluated for the presence of ongoing active vascular inflammation with laboratory (ESR, CRP) and imaging studies (magnetic resonance angiography [MRA], PET). Patients with active disease are treated with resumption or an increase in glucocorticoid therapy and the addition of a glucocorticoid-sparing agent, as with any disease relapse. (See 'Glucocorticoid-sparing agent in selected patients' above and 'Management' below.)
+
+The use of imaging studies to evaluate large-vessel vasculitis is discussed in detail elsewhere. (See "Treatment of Takayasu arteritis", section on 'Imaging'.)
+
+Additional information regarding medical and surgical management of thoracic aortic aneurysm and dissections is presented separately. (See "Management of thoracic aortic aneurysm in adults" and "Management of acute type B aortic dissection".)
+
+SUBSEQUENT MANAGEMENT
+
+Glucocorticoid tapering
+ — Symptoms and signs of giant cell arteritis (GCA) usually respond quickly to glucocorticoids. After two to four weeks of therapy, the dose can be gradually tapered. The approach to glucocorticoid tapering generally depends on whether patients are also receiving tocilizumab or upadacitinib.
+
+●Glucocorticoid monotherapy – For patients who are not on tocilizumab or upadacitinib, we use the following approach:
+
+•The initial dose of prednisone 60 mg/day can generally be reduced to 50 mg/day after two weeks and to 40 mg/day at the end of four weeks, assuming symptoms and signs have receded and the erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) have declined to normal or near-normal ranges.
+
+•Subsequently, the dose can gradually be reduced by 5 mg every two weeks to 20 mg/day and then by 2.5 mg every two weeks to 10 mg/day if there are no flares of disease activity.
+
+•After achieving a daily dose of 10 mg, the prednisone taper should be slowed, such that patients remain on progressively decreasing doses over the ensuing 6 to 12 months. Tapering by 1 mg decrements each month once the daily dose is less than 10 mg can be considered, particularly in patients with concomitant polymyalgia rheumatica.
+
+Alternatively, the 52-week tapering protocol utilized in the placebo arms of the Giant Cell Arteritis Actemra (GiACTA) and SELECT-GCA trials may be followed (table 1).
+
+In selected patients with significant risk for severe glucocorticoid toxicity and contraindications to tocilizumab and upadacitinib, we use an accelerated taper regimen consistent with the taper used for patients on tocilizumab or upadacitinib.
+
+●Glucocorticoids plus tocilizumab or upadacitinib – For most patients with GCA receiving glucocorticoids in combination with tocilizumab or upadacitinib, we use an accelerated glucocorticoid-tapering regimen (table 2).
+
+This accelerated tapering regimen was used in the two trials demonstrating the glucocorticoid-sparing effect of tocilizumab and upadacitinib (GiACTA and SELECT-GCA) [19,23]. Patients are initiated on prednisone 60 mg/day and complete the prednisone taper in 26 weeks. The details of these studies presented above. (See 'Tocilizumab' above and 'Upadacitinib' above.)
+
+Routine monitoring of disease activity
+ — Monthly follow-up visits for the first six months of treatment are ideal, though their frequency will be subject to the exigencies of logistical issues. In stable patients, subsequent follow-up visits can be spaced out to every three months. Ultimately, all matters of follow-up (the interval between clinician visits, the frequency of laboratory monitoring, and the speed of the glucocorticoid taper) are governed by the clinical course of the given patient and must be individualized accordingly.
+
+The goal of these visits is to evaluate the patient's response to therapy and assess for toxicity of the treatment regimen. Patients should be counseled to be watchful for symptoms of polymyalgia rheumatica (PMR) or GCA and should be encouraged to seek medical attention immediately if any symptoms are noted.
+
+The following data are obtained during follow-up visits:
+
+●History and physical examination – At each visit, patients should routinely be asked about cranial symptoms (eg, headache, visual symptoms, jaw claudication) and PMR symptoms (eg, proximal musculoskeletal symptoms and/or signs), as well as any new or worsening symptoms and signs of large-vessel involvement (eg, limb claudication, aortic murmur, peripheral loss of pulses).
+
+Patients should also be monitored for adverse effects from glucocorticoids (eg, osteoporosis, infection, diabetes, cataracts, and glaucoma) [7] and tocilizumab or upadacitinib. (See "Major adverse effects of systemic glucocorticoids" and "Interleukin 6 inhibitors: Biology, principles of use, and adverse effects", section on 'Adverse effects'.)
+
+●ESR and CRP – For patients who are not on tocilizumab, the ESR and CRP can be useful adjuncts to clinical decision-making. Blockade of interleukin 6 (IL-6) activity with tocilizumab completely normalizes the ESR and CRP levels, with the result that these inflammatory makers are not useful for monitoring disease activity. Unfortunately, there are no useful alternative markers for monitoring disease activity in patients on tocilizumab, and clinicians must rely on clinical evaluation and, in the case of large-vessel involvement, periodic imaging studies.
+
+For most patients on glucocorticoid monotherapy, the ESR and CRP usually improve substantially within a few days of the institution of therapy; the CRP declines much more rapidly than the ESR. Elevations of the ESR and CRP should be accompanied by other clinical findings suggestive of recrudescent GCA if changes in glucocorticoid doses are to be made. As markers of disease activity for large-vessel GCA, the ESR and CRP have the same value and are accompanied by the same caveats as they do for the cranial phenotype.
+
+Both the ESR and CRP, however, are imperfect biomarkers in GCA. The ESR usually rises with age (a value of 40 mm/hour may be normal for an 80-year-old), and, in some patients, abnormalities of serum proteins unrelated to GCA can spuriously elevate the ESR. Examples include monoclonal gammopathies and hypergammaglobulinemia secondary to liver disease. Though the ESR and CRP have not been directly compared for the assessment of disease activity in GCA, clinical experience suggests that the CRP is more useful. (See "Clinical manifestations of giant cell arteritis", section on 'Erythrocyte sedimentation rate and C-reactive protein' and "Acute phase reactants", section on 'Laboratory evaluation'.)
+
+Imaging surveillance for patients with large-vessel involvement
+ — Different imaging modalities (CT, CT angiography [CTA], magnetic resonance imaging [MRI], MR angiography [MRA], and ultrasound) may be used for long-term monitoring of structural damage, particularly to detect stenosis, occlusion, dilatation, and/or aneurysms.
+
+●Frequency – The frequency of surveillance should be decided on an individual basis. Repeat imaging of a newly discovered or enlarging aortic aneurysm should be considered at six months of follow-up; if stable, the interval between imaging studies can be lengthened to an annual basis.
+
+●Modality – The choice of an imaging modality will vary by institution and individual patient (see "Diagnosis of giant cell arteritis", section on 'Imaging modalities'). There are not enough data to recommend the routine use of any of the different imaging modalities for monitoring disease activity during follow-up of patients with large-vessel GCA. As an example, in a large retrospective cohort study of patients diagnosed with large-vessel GCA, PET/CT grading showed moderate accuracy in distinguishing between clinically active and inactive disease, with a sensitivity of 51 and specificity of 83 percent [43]. Furthermore, PET/CT was not able to predict subsequent relapse. However, in selected cases in which a flare is suspected, imaging might be helpful to confirm or exclude it.
+
+The use of imaging studies to evaluate large-vessel vasculitis is discussed in detail elsewhere. (See "Treatment of Takayasu arteritis", section on 'Imaging'.)
+
+Prevention of treatment-associated toxicity
+ — Immunosuppressive therapy with high-dose glucocorticoids with or without a glucocorticoid-sparing agent has both infectious and noninfectious toxicities that warrant additional prophylactic measures. The specific regimens are discussed in detail separately:
+
+●Prevention of opportunistic infections – Reports of Pneumocystis jirovecii pneumonia (PCP) in GCA are rare [44,45]. In a retrospective cohort study of 1168 patients with GCA, no cases of PCP were identified over 547 patient-years of follow-up [46]. However, prednisone use at 16 mg/day or more for eight weeks has been shown to be associated with an increased risk of PCP [47], and the risk of PCP in patients on prednisone and tocilizumab or upadacitinib is still unknown.
+
+While the absolute risk of PCP in GCA is small, some experts recommend PCP prophylaxis for patients with GCA given the risk of morbidity and mortality associated with PCP. Ultimately, the decision to prescribe PCP prophylaxis should be individualized based on patient risk factors and preference and following a careful discussion of risks and benefit. (See "Treatment and prevention of Pneumocystis pneumonia in patients without HIV", section on 'Indications'.)
+
+●Osteoporosis prevention – Because of the length of the course of glucocorticoid treatment for GCA, osteoporosis prevention should be aggressively pursued at the start of therapy. Adequate dietary calcium and vitamin D intake should be encouraged. Determination of bone mineral density near the time that treatment is begun is essential for guiding management of bone loss. (See "Prevention and treatment of glucocorticoid-induced osteoporosis".)
+
+●Age-appropriate vaccinations – Age-appropriate vaccinations should be up to date in immunosuppressed patients. (See "Immunizations in autoimmune inflammatory rheumatic disease in adults".)
+
+●Screening for latent tuberculosis – Screening tests of latent tuberculosis should be performed at the start of therapy. (See "Tuberculosis infection (latent tuberculosis) in adults: Approach to diagnosis (screening)".)
+
+DISEASE RELAPSE
+
+Incidence
+ — Reports on the incidence of relapses in giant cell arteritis (GCA) vary widely, from 34 to 74 percent [48-52]. This range is due in part to a lack of consensus regarding the definition of what constitutes a relapse. In some analyses, asymptomatic rises in the acute phase reactants were counted as a flare of GCA, and in others, a recrudescence of symptoms only, unaccompanied by rises in the acute phase reactants, was included. All studies construed the appearance of polymyalgia rheumatica (PMR) as a relapse of GCA.
+
+Clinical features
+ — The majority of relapses in GCA occur at doses of prednisone below 20 mg/day and are most prevalent during the first year of treatment. Headache and PMR are the most common symptomatic expressions of relapse. Other symptoms include jaw claudication, the development of ischemic limb symptoms, and the recurrence of constitutional symptoms.
+
+Elevations of the erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP) do not always indicate a disease flare, but their occurrence should trigger close clinical follow-up and questioning of patients about symptoms of recurring disease. In addition, if elevations in ESR and CRP are accompanied by constitutional symptoms, diagnostic imaging for underlying large-vessel vasculitis may be considered.
+
+Late relapses (and recurrences) of GCA are described, leading to protracted glucocorticoid treatment. In one study, one-half of patients were still on treatment after five years [51]. Other estimates of the total duration of glucocorticoid treatment are in the range of one to two years [53,54], which is more consonant with clinical practice.
+
+Management
+
+●Increase glucocorticoid dose – For patients who experience a relapse of GCA, we increase the glucocorticoid dose appropriate to the nature of the relapse. For visual symptoms attributable to GCA (generally occurring within the first weeks of the initial diagnosis of disease), we use either 500 to 1000 mg/day of intravenous methylprednisolone daily for three days (followed by 40 to 60 mg/day of oral prednisone) or 1 mg/kg/day of oral prednisone (if intravenous pulse cannot be rapidly initiated).
+
+For other symptoms, an increase of the daily dose of glucocorticoids to the last effective dose or 5 to 15 mg above this dose is appropriate. Smaller increments in the daily dose of prednisone, between 5 to 7.5 mg/day, are usually appropriate for PMR symptoms.
+
+●Addition of a glucocorticoid-sparing agent – For patients who are not already on a glucocorticoid-sparing agent at the time of relapse, we add a glucocorticoid-sparing agent, preferably tocilizumab. The rationale for this approach is based on data from the clinical trials of tocilizumab for GCA that included patients with relapsing disease. These trials are discussed in detail above. (See 'Tocilizumab' above.)
+
+For patients with relapsing disease while already on tocilizumab, in addition to increasing the glucocorticoid dose, some experts may modify the tocilizumab dose or route of administration when possible. This approach is based on clinical experience, as there are no data to support this approach. As an example, if a patient relapses while on tocilizumab subcutaneous injections every other week, the dosing frequency may be increased to weekly injections. As another example, if a patient relapses while receiving tocilizumab 6 mg/kg intravenously once every four weeks, they may have their dose increased to 8 mg/kg once every four weeks. Additionally, switching from subcutaneous administration to intravenous administration may be attempted.
+
+Upadacitinib may represent a viable glucocorticoid-sparing alternative for patients preferring oral therapy, those who are unable to receive tocilizumab due to contraindications, or those who experience adverse events or disease relapse despite tocilizumab therapy. However, its use requires careful consideration, particularly given that the majority of patients with GCA are over 65 years of age, an age group inherently more vulnerable to treatment-related risks. This highlights the importance of a thorough risk–benefit evaluation, especially in individuals with additional risk factors such as smoking, preexisting cardiovascular disease, or a history of malignancy. In such cases, alternative therapeutic strategies, including participation in investigational clinical trials, should be considered. (See "Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders", section on 'Adverse effects'.)
+
+Our approach to these issues is outlined in the algorithm (algorithm 2).
+
+UNPROVEN OR INEFFECTIVE AGENTS
+ — 
+
+Several other glucocorticoid-sparing agents have been reported as having efficacy as adjunctive treatment for giant cell arteritis (GCA), but their use cannot be endorsed because of small effect, potential toxicity, lack of controls, or small numbers of patients studied.
+
+●Tocilizumab plus ultra-short glucocorticoid therapy – Three proof-of-concept studies evaluated the efficacy and safety of tocilizumab monotherapy after ultra-short-term glucocorticoid treatment:
+
+•In the first study, 18 patients with newly diagnosed GCA received 500 mg methylprednisolone intravenously for three consecutive days. Thereafter, glucocorticoid treatment was discontinued, and a single infusion of tocilizumab (8 mg/kg bodyweight) was administered intravenously, followed by weekly subcutaneous tocilizumab injections (162 mg) until week 52 [55]. Only 22 percent of patients achieved remission within 31 days and had no relapse at week 24 (primary endpoint). However, 78 percent of the enrolled patients achieved remission within 24 weeks, and 72 percent remained relapse-free until 52 weeks. One patient developed unilateral arteritic anterior ischemic optic neuropathy 15 days after the third glucocorticoid infusion.
+
+•In the second study, 18 patients with newly diagnosed or relapsing active large-vessel GCA received 500 mg methylprednisolone intravenously for three consecutive days followed by weekly subcutaneous tocilizumab injections (162 mg) from day 4 until week 52 [56]. The proportion of patients with relapse-free clinical remission at weeks 24 and 52 was 83 and 76 percent, respectively.
+Compared with baseline, there was a significant reduction of vascular inflammation evaluated by positron emission tomography (PET)/CT at weeks 24 and 52. No patient showed new aortic dilation. However, four patients who had shown aortic dilation at baseline showed a significant increase in aortic diameter (≥5 mm) at week 52.
+
+•In the third study, 30 patients with newly diagnosed or relapsing GCA were treated with 52 weeks of subcutaneous tocilizumab (162 mg/week) and an eight-week prednisone taper (starting with 60 mg/day) [57]. All patients entered remission after four weeks of therapy; 77 percent of patients remained in a glucocorticoid-free remission by week 52. Among the patients who relapsed, the mean time to relapse was 16 weeks.
+
+As proof-of-concept studies, these data are insufficient to guide changes in clinical practice. An ultra-short course of glucocorticoids in combination with tocilizumab may be an option for a subset of patients with GCA; however, randomized controlled trials and longer-term longitudinal studies will be necessary to fully understand the efficacy and safety of this treatment regimen.
+
+●Secukinumab – In a randomized trial of 52 patients with either newly diagnosed or relapsing GCA, subcutaneous secukinumab (300 mg/week for the first four weeks and every four weeks thereafter) improved the rate of sustained remission through 28 weeks compared with placebo (70 versus 20 percent) when each was given in addition to a 26-week glucocorticoid taper [58]. There was no difference in adverse events between the two groups. One patient died in each arm of the study; neither death was attributed to the study treatment. Further study is needed to determine a possible role for secukinumab as adjunctive treatment for GCA.
+
+●Mavrilimumab – Preclinical research has implicated granulocyte-macrophage colony-stimulating factor (GM-CSF) in the pathogenesis of GCA. Mavrilimumab, an immunoglobulin G4 (IgG4) monoclonal antibody, blocks GM-CSF signaling by binding to the alpha chain of the receptor. In a phase 2 trial enrolling patients with GCA, mavrilimumab plus 26 weeks of prednisone was superior to placebo for time to flare by week 26 and sustained remission [59]. Further studies are needed to define the potential role of mavrilimumab in the treatment of GCA.
+
+●Abatacept – A trial of abatacept, a blocker of T-cell costimulation, was proposed on the basis of the presence of activated CD4+ T cells in the typical inflammatory infiltrate of the temporal artery in GCA [60]. (See "Pathogenesis of giant cell arteritis".)
+
+In a phase 2 randomized, double-blind study of patients with newly diagnosed or relapsing GCA, 49 patients were enrolled and treated with prednisone and intravenous abatacept, administered on days 1, 15, 29, and 56. At week 12, 41 patients were in remission and were randomized to continue treatment with monthly abatacept or placebo. Prednisone was tapered by a standardized schedule and discontinued by week 28. The rate of sustained remission at 12 months in patients treated with abatacept compared with placebo was of borderline statistical significance (48 versus 31 percent). There was no difference in adverse events, including infection, between the two groups. Further study is needed to determine a possible role for abatacept as adjunctive treatment for GCA.
+
+●Baricitinib – Preclinical findings and case reports have demonstrated the biologic plausibility that agents selectively targeting Janus kinase 1 (JAK1)/JAK2 hold potential promise in GCA. In a prospective, open-label, proof-of-concept study with a tiered glucocorticoid entry and accelerated taper in patients with relapsing GCA, the oral selective JAK1/JAK2 inhibitor baricitinib at 4 mg/day was well tolerated and allowed discontinuation of glucocorticoids in most patients [61]. Larger randomized clinical trials are needed to determine the safety and efficacy of JAK inhibition in GCA.
+
+●Azathioprine – In a study from a single center of 31 patients with GCA, polymyalgia rheumatica (PMR), or both, a double-blind randomized controlled study of azathioprine, 150 mg/day, versus placebo showed a small but statistically significant reduction in mean prednisolone dose at 52 weeks (1.9 mg/day±0.84 versus 4.2 mg/day±0.58) [62]. However, only 20 patients completed the study.
+
+●Ustekinumab – T helper 1 (Th1) and Th17 cells are believed to play key roles in the pathogenesis of GCA [63] (see "Pathogenesis of giant cell arteritis"). Ustekinumab blocks interleukin 12 (IL-12), a Th1-promoting cytokine, and IL-23, a Th17-promoting cytokine, providing a theoretical basis for its use in the treatment of GCA. In an open-label study of ustekinumab in 14 patients with refractory GCA, the prednisolone dose was decreased from a median of 20 to 5 mg/day; four patients discontinued glucocorticoid therapy entirely [64]. However, a subsequent prospective, open-label trial of ustekinumab in patients with active new-onset or relapsing GCA was closed prematurely after 7 of the initial 10 patients relapsed [65].
+
+●Cyclophosphamide – Cyclophosphamide has been widely used in the treatment of systemic vasculitis. A few small, uncontrolled studies have suggested that it may be useful in GCA in patients at high risk of glucocorticoid-related adverse effects who have not responded adequately to other immunosuppressive or immunomodulatory glucocorticoid-sparing treatments [66-68]. A systematic review identified 103 published cases for analysis [68]. The major indications for cyclophosphamide, administered either orally or intravenously, included glucocorticoid dependency or relapsing disease. Most of the reported patients (86 percent) responded, but 22 percent relapsed despite maintenance immunosuppressive therapy. Adverse effects were described in one-third of the patients, and 12.5 percent discontinued the therapy because of infections and cytopenias. One death due to hepatitis was reported.
+
+●Others – Small, uncontrolled, retrospective series have proposed benefit for dapsone [69], leflunomide [70], and IL-1 blockade [71] for the management of GCA.
+
+●Lack of benefit of anti-TNF therapy – Because GCA is characterized by granulomatous inflammation, tumor necrosis factor (TNF) inhibition would appear to be an appropriate approach to treatment. However, several small randomized trials of TNF inhibition have found that infliximab, etanercept, and adalimumab are ineffective in patients with GCA [72-74].
+
+As an example, 44 patients were studied in a multicenter, randomized, placebo-controlled trial of infliximab for the maintenance of remission [72]. After prednisone-induced remission, patients were randomly assigned in a 2:1 ratio to infliximab 5 mg/kg or placebo. An interim analysis at week 22 demonstrated that infliximab did not reduce the proportion of patients with relapses (43 versus 50 percent on placebo). In addition, infliximab did not increase the proportion of patients whose prednisone dose could be tapered to 10 mg/day without relapse (61 versus 75 percent). Consequently, the trial was stopped early. Through the follow-up period, no differences between the treatment groups were observed in the proportion of relapse-free patients, the cumulative dose of prednisone, or the incidence of adverse events.
+
+PROGNOSIS
+ — 
+
+Giant cell arteritis (GCA) is a disease of variable duration. In some, it may have a course of one to two years, while in many others, the disease is more chronic. The glucocorticoid dose can eventually be reduced and discontinued in the majority of patients, although some patients require low doses of prednisone for a number of years to control symptoms.
+
+GCA does not adversely affect overall survival, excepting the subset of patients with aortic aneurysm and dissection [75-77].
+
+The occurrence of visual loss after an initial course of high-dose glucocorticoid treatment, administered daily, is unusual.
+
+SOCIETY GUIDELINE LINKS
+ — 
+
+Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See "Society guideline links: Giant cell arteritis and polymyalgia rheumatica".)
+
+INFORMATION FOR PATIENTS
+ — 
+
+UpToDate offers two types of patient education materials, "The Basics" and "Beyond the Basics." The Basics patient education pieces are written in plain language, at the 5th to 6th grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10th to 12th grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon.
+
+Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+●Basics topic (see "Patient education: Polymyalgia rheumatica and giant cell arteritis (The Basics)")
+
+●Beyond the Basics topics (see "Patient education: Vasculitis (Beyond the Basics)" and "Patient education: Polymyalgia rheumatica and giant cell arteritis (Beyond the Basics)")
+
+SUMMARY AND RECOMMENDATIONS
+
+●Initial management
+
+•Systemic glucocorticoids – For all patients with giant cell arteritis (GCA), we recommend initial treatment with high-dose systemic glucocorticoids (algorithm 1) to preserve vision (Grade 1C) as well as to treat other clinical symptoms associated with GCA (Grade 2B). Treatment should be initiated promptly once the diagnosis is confirmed or there is a high index of suspicion for GCA. Our practice regarding the specific dose and route of administration of glucocorticoids for newly diagnosed GCA is as follows (see 'Glucocorticoids' above):
+
+-No visual loss at diagnosis – Prednisone 40 to 60 mg/day or equivalent, given in a single daily dose.
+
+-Threatened or established visual loss at diagnosis – Methylprednisolone 500 to 1000 mg/day intravenous for three days (followed by 40 to 60 mg/day of oral prednisone).
+
+•Glucocorticoid-sparing agent in selected patients
+
+-Tocilizumab – For patients who have an increased risk of glucocorticoid-related adverse effects, we suggest the addition of tocilizumab to glucocorticoid therapy rather than glucocorticoid therapy alone (Grade 2B). Patients who are at increased risk of developing glucocorticoid-related side effects or complications include those with osteoporosis, diabetes, cardiovascular disease, or glaucoma. However, the American College of Rheumatology (ACR) recommends the use of adjunctive tocilizumab for all patients with GCA.
+
+-Upadacitinib – Upadacitinib may represent a viable glucocorticoid-sparing alternative for patients who are unable to receive tocilizumab due to contraindications. However, its use should be approached with caution in patients with preexisting cardiovascular risk factors, given the potential cardiovascular safety concerns associated with Janus kinase (JAK) inhibitors. Both tocilizumab and upadacitinib have demonstrated a glucocorticoid-sparing effect in clinical trials. (See 'Glucocorticoid-sparing agent in selected patients' above and 'Indications and rationale' above and 'Tocilizumab' above and 'Upadacitinib' above.)
+
+-Methotrexate – Methotrexate may be used as an alternative to tocilizumab and upadacitinib for patients who are unable to use the medication due to factors such as availability, cost, recurrent infections, or contraindications; however, limited available data and clinical experience suggest methotrexate is less effective than tocilizumab. (See 'Methotrexate' above.)
+
+•Patients with large-vessel involvement – Patients with large-vessel GCA are managed using the same approach outlined above. In addition, for patients who have critical or flow-limiting involvement of the cerebral or carotid arteries, we add low-dose aspirin to glucocorticoid and glucocorticoid-sparing therapy. For patients with vascular complications such as aortic aneurysms or stenosis resulting in limb or organ ischemia, management decisions regarding potential surgical intervention should involve collaboration of the vascular surgeon and the rheumatologist. (See 'Patients with large-vessel involvement' above.)
+
+●Subsequent management
+
+•Glucocorticoid tapering – Symptoms and signs of GCA usually respond quickly to glucocorticoids; taper can generally be initiated after one to two weeks. The approach to glucocorticoid tapering varies generally depends on whether patients are also receiving tocilizumab. (See 'Glucocorticoid tapering' above.)
+
+-Patients on glucocorticoid monotherapy – For patients with GCA receiving monotherapy with glucocorticoids, we use a standard glucocorticoid tapering regimen (table 1).
+
+-Patients on glucocorticoids plus tocilizumab – For most patients with GCA receiving glucocorticoids in combination with tocilizumab or upadacitinib, we use an accelerated glucocorticoid-tapering regimen (table 2).
+
+•Routine monitoring of disease activity – Monitoring of disease activity requires careful clinical follow-up to evaluate the patient's response to therapy and assess for toxicity of the treatment regimen.
+
+For patients who are not on tocilizumab, the erythrocyte sedimentation rate (ESR) and the C-reactive protein (CRP) can be useful adjuncts to clinical decision-making. However, tocilizumab completely normalizes the ESR and CRP levels, and they are thus not useful for monitoring disease activity in such patients. Clinicians must rely on clinical evaluation and, for patients with large-vessel involvement, periodic imaging studies for patients on tocilizumab. (See 'Routine monitoring of disease activity' above.)
+
+•Imaging surveillance for patients with large-vessel involvement – Different imaging modalities (CT, CT angiography [CTA], MRI, MR angiography [MRA], and ultrasound) may be used for long-term monitoring of structural damage, particularly to detect stenosis, occlusion, dilatation, and/or aneurysms. The frequency of surveillance, as well as the imaging method applied, should be decided on an individual basis. (See 'Imaging surveillance for patients with large-vessel involvement' above.)
+
+•Prevention of treatment-associated toxicity – Immunosuppressive therapy with high-dose glucocorticoids with or without a glucocorticoid-sparing agent has both infectious and noninfectious toxicities that warrant additional prophylactic measures including prevention of opportunistic infections, osteoporosis prevention, age-appropriate vaccinations, and screening for latent tuberculosis. (See 'Prevention of treatment-associated toxicity' above.)
+
+●Disease relapse
+
+•Incidence and clinical features – Relapses of disease activity are most common at prednisone doses less than 20 mg/day and are most prevalent during the first year of treatment. Headache and polymyalgia rheumatica (PMR) are the most common symptomatic expressions of relapse. Relapses usually do not result in major adverse events (eg, visual loss). (See 'Incidence' above.)
+
+•Management of relapse
+
+-For patients who experience a relapse of GCA, we increase the glucocorticoid dose appropriate to the nature of the relapse similar to the approach that we use for initial therapy (algorithm 2).
+
+-For patients who are not already on a glucocorticoid-sparing agent at the time of relapse, we suggest adding tocilizumab rather than continuing glucocorticoids alone (Grade 2B). Upadacitinib may represent a viable glucocorticoid-sparing alternative for patients without cardiovascular risk factors who are unable to receive tocilizumab due to contraindications, or for those who experience adverse events or disease relapse despite tocilizumab therapy.
+(See 'Management' above.)
+
+●Prognosis – GCA is a disease of variable duration. Length of treatment may extend from one to multiple years. Glucocorticoid treatment can eventually be discontinued in the majority of patients. (See 'Prognosis' above.)
+Diagnosis of giant cell arteritis
+ContributorsDisclosures
+Date
+INTRODUCTION
+ — 
+
+Giant cell arteritis (GCA, also known as Horton disease, cranial arteritis, and temporal arteritis) is the most common of the systemic vasculitides [1]. GCA is also a classic systemic rheumatic disease of older adults; it virtually never occurs in individuals younger than 50 years of age and peaks in incidence in the seventh decade [2].
+
+GCA mainly involves the large- and medium-sized arteries and may produce a wide spectrum of clinical manifestations [3]. At one end of the spectrum, there are patients with cranial manifestations who typically have a positive temporal artery biopsy. At the other end are patients with predominantly large vessel involvement, who frequently lack cranial manifestations, and whose symptoms are often subtle and nonspecific. These patients typically have a negative temporal artery biopsy and require large vessel imaging to confirm the diagnosis. Finally, some patients have overlapping features of cranial manifestations and large vessel disease [4,5].
+
+The diagnosis of GCA will be reviewed here. The pathogenesis, clinical manifestations, and treatment of this disorder are discussed separately. (See "Pathogenesis of giant cell arteritis" and "Clinical manifestations of giant cell arteritis" and "Treatment of giant cell arteritis".)
+
+INITIAL DIAGNOSTIC EVALUATION
+
+When to suspect giant cell arteritis
+ — The diagnosis of giant cell arteritis (GCA) should be considered in a patient over the age of 50 years who has one or more of the following symptoms or signs, particularly in the setting of an elevated erythrocyte sedimentation rate (ESR) and/or C-reactive protein (CRP) (algorithm 1):
+
+●New headache or change in characteristics of preexisting headache
+
+●Abrupt onset of visual disturbances, especially transient/permanent monocular visual loss
+
+●Jaw claudication
+
+●Unexplained fever or other constitutional symptoms and signs
+
+●Signs/symptoms of vascular abnormalities (eg, limb claudication; asymmetric blood pressures; abnormal radial pulse; vascular bruits; temporal artery abnormalities such as tenderness to palpation, decreased pulse amplitude, and presence of nodules)
+
+A current or prior diagnosis of polymyalgia rheumatica (PMR) heightens the potential diagnostic significance of any of these findings. Because of the association between the two diseases, a diagnosis of GCA should be considered in all patients with PMR. In patients who manifest only symptoms of PMR without symptoms and signs of cranial or large vessel disease, temporal artery biopsy and large vessel imaging are not required. Nevertheless, such patients should be questioned carefully about headache, jaw or arm claudication, visual symptoms, and unusual pain in the face, throat, or tongue, any of which could suggest the possibility of GCA. A careful clinical evaluation of large vessels should include carotid and subclavian artery auscultation for the presence of bruits and bilateral blood pressure measurements. An evaluation for GCA may be indicated in selected cases of PMR that incur repeated relapses, have persistently increased acute phase reactants, and appear relatively resistant to glucocorticoids. (See "Clinical manifestations and diagnosis of polymyalgia rheumatica", section on 'Association with GCA'.)
+
+The manifestations of GCA are protean, are variable from patient to patient, and can be transient or fluctuating. Accordingly, if the disease is suspected, both current and recent symptoms compatible with GCA should be sought. A more detailed description of the clinical manifestations of GCA is presented separately. (See "Clinical manifestations of giant cell arteritis".)
+
+The presence of clinical manifestations unusual in GCA should prompt consideration of alternative diagnoses (eg, lymphoma or other malignancy; other vasculitides, such as granulomatosis with polyangiitis; atherosclerosis). Some of these presentations include (see 'Differential diagnosis' below):
+
+●Adenopathy
+
+●Pulmonary infiltrates
+
+●Digital cyanosis, ulceration, or gangrene
+●Mononeuritis multiplex
+
+●Stroke in the distribution of the middle cerebral artery
+
+●Evidence for glomerulitis or and/or rapidly rising serum creatinine
+
+Evaluation
+ — Fundamental to the diagnosis of GCA is the demonstration of typical histopathologic or imaging findings. The diagnosis should not be based upon symptoms alone (algorithm 1). The treatment of GCA with high-dose glucocorticoids can be associated with considerable potential toxicities. The commitment of an older adult to this therapy should be founded, whenever possible, on unequivocal confirmation of the diagnosis. Histopathologic evidence of GCA is most often acquired by temporal artery biopsy. It may be possible for color Doppler ultrasound (CDUS), if performed by experienced operators, to substitute for temporal artery biopsy as a diagnostic procedure in the appropriate clinical setting. (See 'Temporal artery biopsy' below and 'Ultrasound with Doppler' below.)
+
+Though the most common presentation of GCA involves the cranial arteries, in some patients a different disease phenotype predominates in which the arteritis targets the large vessels. In these cases, imaging of the large vessels is essential for diagnosis. (See 'Patients with a nondiagnostic initial evaluation' below.)
+
+Our diagnostic approach is generally consistent with guidelines developed by professional organizations [6-8].
+
+Laboratory testing
+ — Initial laboratory testing should include the following:
+
+●Complete blood count (CBC)
+
+●ESR and CRP levels
+
+●Complete metabolic panel (to include serum creatinine, liver function tests, glucose)
+
+●Urine dipstick analysis
+
+●Serum protein electrophoresis
+
+●Bone profile panel (to include calcium, phosphorous, albumin, total protein, alkaline phosphatase, 25-hydroxyvitamin D)
+
+In selected patients with clinical manifestations unusual in GCA, additional tests such as chest radiograph may be helpful in excluding alternative diagnoses. (See 'Differential diagnosis' below.)
+
+Laboratory data can aid in the evaluation of GCA and its differential diagnosis, but they are not specific and cannot be relied on as definitive evidence for or against a possible diagnosis of GCA.
+
+Although the ESR and/or CRP are almost always high in GCA, they are not specific for GCA. Their role is more important to rule out GCA when they are normal rather than to confirm GCA when they are elevated. Less than 4 percent of patients with GCA have both the ESR and CRP in the normal range [9,10]. Even if the CRP is more sensitive than the ESR, an elevated ESR with a normal CRP can also infrequently be observed [11]. Thus, we suggest performing both the ESR and CRP at the initial evaluation. (See "Clinical manifestations of giant cell arteritis", section on 'Erythrocyte sedimentation rate and C-reactive protein'.)
+
+Other laboratory indices that reflect systemic inflammation include a normochromic normocytic anemia, thrombocytosis, as well as a reduced albumin and elevated alpha2 fraction on serum protein electrophoresis and a raised fibrinogen. Liver function tests can be abnormal in one-third to one-fourth of patients. In such cases, it is usually the alkaline phosphatase that is (often mildly) elevated. (See "Clinical manifestations of giant cell arteritis", section on 'Other laboratory abnormalities'.)
+
+Assessment of the temporal artery
+ — A suspected diagnosis of GCA should be followed by temporal artery biopsy or temporal artery CDUS. (See 'Ultrasound with Doppler' below.)
+
+However, scheduling the temporal artery biopsy or CDUS should not delay initiation of treatment, and the appropriate dose of glucocorticoids should be started when GCA is suspected. A negative biopsy or CDUS does not necessarily mean that the patient does not have GCA. (See 'Patients with negative biopsy and imaging' below.)
+
+Temporal artery biopsy
+ — In clinical practice, we recommend an initial unilateral temporal artery biopsy with an in vivo length of at least 1 cm. The diagnostic sensitivity of a unilateral temporal artery of adequate length that has been subjected to careful histologic evaluation is acceptably high (see 'Diagnostic accuracy' below). Proceeding with the contralateral biopsy is appropriate if the unilateral biopsy and imaging for temporal arteritis and large vessel vasculitis are negative, the clinical suspicion is high, and additional evidence for cranial GCA is sought.
+
+We start glucocorticoid treatment as soon as the diagnosis of GCA is suspected, and we perform temporal artery biopsy within two to four weeks of treatment. Beyond four weeks of high-dose glucocorticoid exposure, we perform temporal artery biopsy only in selected cases that require diagnostic confirmation of GCA. The dosing of glucocorticoids for the treatment of GCA is discussed separately. (See 'Diagnostic accuracy' below and "Treatment of giant cell arteritis", section on 'No visual loss or cerebovascular events at diagnosis'.)
+
+Temporal artery biopsy procedure — Temporal artery biopsies are obtained on an outpatient basis under local anesthesia in a surgical procedure suite or operating room. The procedure is brief and of low risk. The technique of temporal artery biopsy is discussed in detail elsewhere. (See "Temporal artery biopsy technique".)
+
+Diagnostic accuracy — The temporal artery biopsy is not a perfect test. The sensitivity of the temporal artery biopsy is difficult to estimate because there is no definitive diagnostic test for GCA. False negative results occur in up to 44 percent of patients with an established diagnosis of GCA [12,13]. In addition, several factors can affect the diagnostic sensitivity of temporal artery biopsy including the discontinuous character of the histopathologic changes (skip lesions), bilaterality of the biopsy procedure, length of specimens, and number of sections evaluated [14,15]. Glucocorticoid treatment may also reduce the sensitivity of temporal artery biopsy. Finally, the temporal arteries may be spared by the inflammatory process, especially in patients with large vessel involvement, in whom temporal artery biopsy findings are negative in a substantial number of cases [4]. (See 'Evaluation for large vessel giant cell arteritis' below.)
+
+●Diagnostic sensitivity – The reported sensitivity of the temporal artery biopsy in most studies ranges from 50 to 95 percent, depending on the prevalence of GCA in the evaluated population; the clinical threshold for considering the procedure; and differences in temporal artery biopsy sampling, processing, or interpretation. In a large meta-analysis including 3092 patients, the diagnostic sensitivity of the temporal artery biopsy was found to be 77.3 percent (95% CI 71.8-81.9 percent) [16], providing indirect evidence that temporal artery biopsy is not less sensitive than temporal artery imaging.
+
+●Usefulness of bilateral biopsies – The extent to which the sensitivity of the temporal artery biopsy is improved by the performance of bilateral biopsies remains a matter of debate. The range of reported discordance rates of bilateral temporal artery biopsies (positive on one side, negative on the other) has varied widely [17-21]. A study of 1935 bilateral temporal artery biopsies, performed either sequentially or simultaneously, collected from 11 older reports, found a mean discordance rate (calculated from the total numbers of positive and negative biopsies) of 5.5 percent (95% CI 3.2-7.8) [22]. In 2 studies of simultaneously performed biopsies of 132 and 250 patients, discordance rates of 9.8 and 4.4 percent, respectively, were reported [23,24]. The increased yield of contralateral biopsy for the diagnosis is thus in the range of 5 percent.
+
+●Effect of biopsy length – The effect of biopsy length on the diagnostic yield of temporal artery biopsy has also been debated. Because of the issue of skip areas, longer biopsy specimens have traditionally been recommended, taking into account that there is a shrinkage rate of at least 10 percent in the length of the temporal artery sample after formalin fixation [25]. One retrospective study of 966 biopsies found that positive biopsies had a median postfixation length that was statistically longer than negative biopsies (1.2 versus 1.0 cm) [26]. Another study of 1520 temporal artery biopsies concluded that specimens of shorter lengths were also of diagnostic value [27]. In that study, statistical analysis suggested that the change point in the odds ratio for finding a positive temporal artery biopsy occurred at a biopsy length of 0.5 cm [27]. Similar results were observed in a retrospective study of 694 temporal artery biopsies [15]. A postfixation temporal artery biopsy specimen length of 0.5 cm was sufficient to make a histologic diagnosis of GCA.
+
+Because the arterial specimen contracts after removal, surgeons should aim for a prefixation surgical specimen length of 1 cm in order to maximize the diagnostic accuracy of temporal artery biopsy. In order not to miss inflammatory changes, at least three further sections at deeper levels should be evaluated in all negative temporal artery biopsy specimens [15].
+
+●Effect of glucocorticoids – Resolution of the inflammatory infiltrate of GCA occurs slowly, and histopathologic evidence will be evident for at least a month after glucocorticoid therapy has been instituted. In one series, the rates of positive biopsies were similar in patients who were treated with glucocorticoid therapy for less than two weeks compared with those treated for more than two weeks [28]. Another study observed a drop-off in the yield of a positive temporal artery with continued treatment: a positive biopsy was found in 78 percent of patients with suspected GCA who had less than two weeks of treatment; in 65 percent with treatment of two to four weeks' duration; and in 40 percent treated for more than four weeks [29]. Another large series, however, reported that characteristic histopathologic changes of GCA were seen as frequently in biopsies obtained after four weeks of glucocorticoid therapy as after one to three days of therapy [30]. In some patients, the temporal artery biopsy can remain diagnostic for weeks and months after the start of treatment [30]. Another longitudinal histopathologic study reported that vasculitis may still be demonstrated on repeated biopsies in 70 percent at 3 months, 75 percent at 6 months, and 44 percent at 9 and 12 months [31]. (See "Treatment of giant cell arteritis", section on 'Initial management'.)
+
+In clinical practice, temporal artery biopsies performed for evaluation of patients with suspected GCA are positive in 25 to 35 percent of cases [15].
+
+CDUS-guided temporal artery biopsy does not increase the positive yield of temporal artery biopsy [32] but is useful for locating the artery in preparation for the biopsy procedure.
+
+Interpretation of histopathologic findings — The classic histologic picture of GCA is a transmural inflammatory infiltrate comprised of lymphocytes, macrophages, and, in approximately 75 percent of cases, giant cells (picture 1 and picture 2). The lesion frequently has a "concentric rings" appearance, with a thicker inflammatory band surrounding the external elastic lamina and a thinner inflammatory band along the internal elastic lamina (picture 3). Generally, the two bands are focally interconnected, but the interposed media is relatively spared, and only in the most severe cases is it variably destroyed by inflammation (picture 4). A peculiar laminar necrosis, consisting of a band of acellular eosinophilic material sometimes bordered by palisading histiocytes along the internal elastic lamina, is present in approximately 25 percent of cases (picture 5).
+
+Fibrinoid necrosis is extremely rare, and its presence should prompt consideration for the possibility of an alternative diagnosis (ie, one of the systemic necrotizing vasculitides such as granulomatosis with polyangiitis) (picture 6) [33-35].
+
+In some patients, the inflammation spares the media and is restricted to the periadventitial small vessels (picture 7), to the adventitial vasa vasorum (picture 8), or to the adventitia (picture 9) [33]. Whether these forms of restricted inflammation carry the same diagnostic and prognostic importance as the typical transmural findings is still unclear. Because a temporal artery biopsy showing restricted inflammation has low sensitivity and specificity for GCA [36], the fact that a substantial proportion of patients may have this pattern of limited evidence of inflammation emphasizes the need for diagnosis and treatment based on clinical judgment [37].
+
+In the absence of mural inflammation, the other structural changes (such as focal mediointimal scar, medial attenuation, intimal hyperplasia, fragmentation of inner elastic lamina, calcification, adventitial fibrosis, and neoangiogenesis) found in the wall of temporal arteries, and often referred to as "healed" or quiescent arteritis, are not specific or useful for the diagnosis of GCA (picture 10) [14]. We suggest that the terms "healed" or "quiescent arteritis" should best be avoided, and the definition of a positive temporal artery biopsy be restricted to the biopsies showing inflammation.
+
+Rarely, temporal artery biopsy will disclose pathology other than GCA, such as systemic necrotizing vasculitis, antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis, polyarteritis nodosa, amyloidosis, or lymphoma [38,39].
+
+Ultrasound with Doppler
+ — CDUS of the head, neck, and upper extremities can serve as a diagnostic surrogate for temporal artery biopsy when performed by clinicians skilled in this technique. In the absence of extensive experience with this technology in routine clinical practice, however, temporal artery biopsy remains an essential diagnostic measure for the evaluation of suspected GCA. (See 'Temporal artery biopsy' above.)
+
+We start glucocorticoids when the diagnosis of GCA is suspected. Temporal artery CDUS should be performed when the diagnosis is suspected, before or as early as possible after initiation of therapy, ideally within one week, because treatment with glucocorticoids rapidly reduces the sensitivity of CDUS for GCA diagnosis [40]. The dosing of glucocorticoids for the treatment of GCA is discussed separately. (See "Treatment of giant cell arteritis", section on 'No visual loss or cerebovascular events at diagnosis'.)
+
+CDUS has a resolution of 0.1 mm and thus can visualize the temporal arteries and other small extracranial arteries. In GCA, the temporal arteries show a homogenous, hypoechoic wall thickening that is well delineated towards the luminal side and is visible in both longitudinal and transverse planes, most commonly concentric in transverse scans, thought to represent mural edema, dubbed the "halo sign" [41-43]. The halo, which measures 0.3 to 1.0 mm, is hypoechogenic, not anechogenic (image 1). The presence of bilateral halo signs of the temporal arteries is highly specific for GCA [44]. The "compression sign" also has high specificity for the diagnosis; it refers to the persisting visibility of the halo during compression of the vessel lumen by the ultrasound probe [45]. Stenoses and occlusions can also be seen but are much less specific and thus of limited diagnostic value.
+
+CDUS has several advantages: It is noninvasive, provides simultaneous image acquisition and interpretation, and involves no exposure to radiation. Other cranial arteries (eg, the facial, occipital, and vertebral arteries) can also be visualized. Scanning of the axillary and subclavian arteries can show evidence of large vessel vasculitis, which is missed with diagnostic studies limited to the cranial arteries, thereby augmenting the potential yield of CDUS as a diagnostic test (image 2) [46-48].
