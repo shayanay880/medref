@@ -1,6 +1,6 @@
 Treatment of giant cell arteritis
 ContributorsDisclosures
-Date
+Da
 INTRODUCTION
  — 
 
