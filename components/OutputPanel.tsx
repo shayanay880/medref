@@ -41,7 +41,7 @@ const allowedTags = new Set([
   'div'
 ]);
 
-const allowedSpanClasses = new Set(['hl-red', 'hl-yellow', 'hl-blue']);
+const allowedSpanClasses = new Set(['hl-red', 'hl-yellow', 'hl-blue', 'extra']);
 const allowedDivClasses = new Set(['chunk-separator']);
 
 const highlightLimits: Record<HighlightDensity, Record<'R' | 'Y' | 'B', number>> = {
@@ -50,10 +50,13 @@ const highlightLimits: Record<HighlightDensity, Record<'R' | 'Y' | 'B', number>>
   High: { R: 8, Y: 18, B: 12 }
 };
 
-const markerClassMap: Record<'R' | 'Y' | 'B', string> = {
+type HighlightMarker = 'R' | 'Y' | 'B' | 'EXTRA';
+
+const markerClassMap: Record<HighlightMarker, string> = {
   R: 'hl-red',
   Y: 'hl-yellow',
-  B: 'hl-blue'
+  B: 'hl-blue',
+  EXTRA: 'hl-red extra'
 };
 
 const PRIORITY_RANK: Record<OutlinePriority, number> = { high: 3, medium: 2, low: 1 };
@@ -169,9 +172,12 @@ const applyHighlightMarkers = (content: string, density: HighlightDensity) => {
   const limits = highlightLimits[density] || highlightLimits.Medium;
   const counts: Record<'R' | 'Y' | 'B', number> = { R: 0, Y: 0, B: 0 };
 
-  return content.replace(/\[\[(R|Y|B)\]\]([\s\S]*?)\[\[\/\1\]\]/g, (_match, marker: 'R' | 'Y' | 'B', inner: string) => {
-    counts[marker] += 1;
-    if (counts[marker] > limits[marker]) {
+  const limitKey = (marker: HighlightMarker): 'R' | 'Y' | 'B' => (marker === 'EXTRA' ? 'R' : marker);
+
+  return content.replace(/\[\[(R|Y|B|EXTRA)\]\]([\s\S]*?)\[\[\/\1\]\]/g, (_match, marker: HighlightMarker, inner: string) => {
+    const limitMarker = limitKey(marker);
+    counts[limitMarker] += 1;
+    if (counts[limitMarker] > limits[limitMarker]) {
       return inner;
     }
     const className = markerClassMap[marker];
