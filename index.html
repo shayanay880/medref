@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MedRef Tutor (FA/EN)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+    <script>
+      // Polyfill process for browser environments
+      window.process = window.process || { env: { NODE_ENV: 'development' } };
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.562.0",
+    "@google/genai": "https://esm.sh/@google/genai@^1.34.0",
+    "react-markdown": "https://esm.sh/react-markdown@^10.1.0",
+    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "vite": "https://esm.sh/vite@^7.3.0",
+    "remark-gfm": "https://esm.sh/remark-gfm@^4.0.1",
+    "date-fns": "https://esm.sh/date-fns@^4.1.0",
+    "rehype-raw": "https://esm.sh/rehype-raw@^7.0.0",
+    "typescript": "https://esm.sh/typescript@^5.9.3",
+    "@testing-library/jest-dom/": "https://esm.sh/@testing-library/jest-dom@^6.9.1/",
+    "vitest": "https://esm.sh/vitest@^4.0.16",
+    "vitest/": "https://esm.sh/vitest@^4.0.16/",
+    "jsdom": "https://esm.sh/jsdom@^27.3.0",
+    "@testing-library/react": "https://esm.sh/@testing-library/react@^16.3.1"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-slate-50 text-slate-900">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+    <script>
+      window.onerror = function(message, source, lineno, colno, error) {
+        const root = document.getElementById('root');
+        if (root && !root.hasChildNodes()) {
+          root.innerHTML = '<div style="padding: 20px; color: #9f1239; font-family: sans-serif; direction: ltr; text-align: left;">' +
+            '<h1 style="font-size: 24px; margin-bottom: 10px;">Application Failed to Start</h1>' +
+            '<p style="margin-bottom: 20px;">An error prevented the application from rendering:</p>' +
+            '<pre style="background: #fff1f2; padding: 15px; border-radius: 8px; border: 1px solid #fda4af; overflow: auto; font-size: 14px;">' + 
+            message + '\n\n' + (error ? error.stack : '') + 
+            '</pre></div>';
+        }
+      };
+    </script>
+  </body>
+</html>

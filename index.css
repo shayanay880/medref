@@ -1,0 +1,102 @@
+
+body {
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+/* Custom scrollbar for cleaner look */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Highlighting Styles */
+.hl-red {
+  background-color: #fee2e2;
+  color: #991b1b;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  border-bottom: 2px solid #fecaca;
+}
+
+.hl-yellow {
+  background-color: #fef3c7;
+  color: #92400e;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  border-bottom: 2px solid #fde68a;
+}
+
+.hl-blue {
+  background-color: #eff6ff;
+  color: #1d4ed8;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  border-bottom: 2px solid #dbeafe;
+}
+
+.extra-inline {
+  color: #be123c; /* rose-700 */
+  font-style: italic;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  background-color: #fff1f2;
+  padding: 0 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.chunk-separator {
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(to right, transparent, #cbd5e1, transparent);
+  margin: 1.5rem 0;
+}
+
+/* Interactive Recall Styles */
+details {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #f8fafc;
+  transition: all 0.2s;
+}
+
+details[open] {
+  background-color: #f0f9ff;
+  border-color: #bae6fd;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: #334155;
+  list-style: none; /* Hide default arrow to potentially style custom later, or keep standard */
+}
+
+summary:hover {
+  color: #0f172a;
+}
+
+/* Optional: Custom arrow indicator could go here, but default is usually fine for simplicity */
+details > *:not(summary) {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+  color: #334155;
+}
